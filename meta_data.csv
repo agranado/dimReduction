@@ -1,0 +1,1207 @@
+,Tissue,cell_ontology_class,age,dataset,cell_id,seurat_clusters
+1_E6.5_8.5_Chan,epiblast,epiblast ,E6.5,E6.5_8.5_Chan,1_E6.5_8.5_Chan,6
+2_E6.5_8.5_Chan,xecto,ectoderm early 2,E6.5,E6.5_8.5_Chan,2_E6.5_8.5_Chan,6
+3_E6.5_8.5_Chan,epiblast,epiblast ,E6.5,E6.5_8.5_Chan,3_E6.5_8.5_Chan,6
+4_E6.5_8.5_Chan,epiblast,epiblast ,E6.5,E6.5_8.5_Chan,4_E6.5_8.5_Chan,6
+5_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E6.5,E6.5_8.5_Chan,5_E6.5_8.5_Chan,17
+6_E6.5_8.5_Chan,epiblast,epiblast ,E6.5,E6.5_8.5_Chan,6_E6.5_8.5_Chan,6
+7_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E6.5,E6.5_8.5_Chan,7_E6.5_8.5_Chan,17
+8_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E6.5,E6.5_8.5_Chan,8_E6.5_8.5_Chan,17
+9_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E6.5,E6.5_8.5_Chan,9_E6.5_8.5_Chan,16
+10_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E6.5,E6.5_8.5_Chan,10_E6.5_8.5_Chan,16
+11_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 2,E6.5,E6.5_8.5_Chan,11_E6.5_8.5_Chan,17
+12_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 2,E6.5,E6.5_8.5_Chan,12_E6.5_8.5_Chan,17
+13_E6.5_8.5_Chan,xendo,visceral endoderm early,E6.5,E6.5_8.5_Chan,13_E6.5_8.5_Chan,16
+14_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E6.5,E6.5_8.5_Chan,14_E6.5_8.5_Chan,16
+15_E6.5_8.5_Chan,xendo,parietal endoderm ,E6.5,E6.5_8.5_Chan,15_E6.5_8.5_Chan,4
+16_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E7.0,E6.5_8.5_Chan,16_E6.5_8.5_Chan,17
+17_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,17_E6.5_8.5_Chan,6
+18_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.0,E6.5_8.5_Chan,18_E6.5_8.5_Chan,6
+19_E6.5_8.5_Chan,xmeso,primitive streak early ,E7.0,E6.5_8.5_Chan,19_E6.5_8.5_Chan,10
+20_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,20_E6.5_8.5_Chan,6
+21_E6.5_8.5_Chan,xmeso,primitive streak early ,E7.0,E6.5_8.5_Chan,21_E6.5_8.5_Chan,10
+22_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,22_E6.5_8.5_Chan,6
+23_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,23_E6.5_8.5_Chan,6
+24_E6.5_8.5_Chan,xmeso,streak pre-specified/anterior,E7.0,E6.5_8.5_Chan,24_E6.5_8.5_Chan,6
+25_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,25_E6.5_8.5_Chan,6
+26_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,26_E6.5_8.5_Chan,6
+27_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,27_E6.5_8.5_Chan,6
+28_E6.5_8.5_Chan,xmeso,primitive streak early ,E7.0,E6.5_8.5_Chan,28_E6.5_8.5_Chan,10
+29_E6.5_8.5_Chan,xendo,visceral endoderm early,E7.0,E6.5_8.5_Chan,29_E6.5_8.5_Chan,16
+30_E6.5_8.5_Chan,xmeso,allantois ,E7.0,E6.5_8.5_Chan,30_E6.5_8.5_Chan,12
+31_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E7.0,E6.5_8.5_Chan,31_E6.5_8.5_Chan,16
+32_E6.5_8.5_Chan,xmeso,primitive streak early ,E7.0,E6.5_8.5_Chan,32_E6.5_8.5_Chan,10
+33_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E7.0,E6.5_8.5_Chan,33_E6.5_8.5_Chan,12
+34_E6.5_8.5_Chan,xmeso,streak pre-specified/anterior,E7.0,E6.5_8.5_Chan,34_E6.5_8.5_Chan,10
+35_E6.5_8.5_Chan,xmeso,streak pre-specified/anterior,E7.0,E6.5_8.5_Chan,35_E6.5_8.5_Chan,6
+36_E6.5_8.5_Chan,xmeso,streak pre-specified/anterior,E7.0,E6.5_8.5_Chan,36_E6.5_8.5_Chan,6
+37_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E7.0,E6.5_8.5_Chan,37_E6.5_8.5_Chan,17
+38_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,38_E6.5_8.5_Chan,6
+39_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E7.0,E6.5_8.5_Chan,39_E6.5_8.5_Chan,16
+40_E6.5_8.5_Chan,xecto,ectoderm early 1 ,E7.0,E6.5_8.5_Chan,40_E6.5_8.5_Chan,6
+41_E6.5_8.5_Chan,pgcs,primordial germ cells (PGCs) ,E7.0,E6.5_8.5_Chan,41_E6.5_8.5_Chan,10
+42_E6.5_8.5_Chan,xendo,parietal endoderm ,E7.0,E6.5_8.5_Chan,42_E6.5_8.5_Chan,4
+43_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E7.0,E6.5_8.5_Chan,43_E6.5_8.5_Chan,12
+44_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,44_E6.5_8.5_Chan,6
+45_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E7.5,E6.5_8.5_Chan,45_E6.5_8.5_Chan,17
+46_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E7.5,E6.5_8.5_Chan,46_E6.5_8.5_Chan,17
+47_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,47_E6.5_8.5_Chan,6
+48_E6.5_8.5_Chan,xmeso,primitive streak late ,E7.5,E6.5_8.5_Chan,48_E6.5_8.5_Chan,10
+49_E6.5_8.5_Chan,xendo,visceral endoderm early,E7.5,E6.5_8.5_Chan,49_E6.5_8.5_Chan,16
+50_E6.5_8.5_Chan,xmeso,allantois ,E7.5,E6.5_8.5_Chan,50_E6.5_8.5_Chan,19
+51_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,51_E6.5_8.5_Chan,6
+52_E6.5_8.5_Chan,xmeso,NMPs early ,E7.5,E6.5_8.5_Chan,52_E6.5_8.5_Chan,10
+53_E6.5_8.5_Chan,xmeso,primitive streak late ,E7.5,E6.5_8.5_Chan,53_E6.5_8.5_Chan,10
+54_E6.5_8.5_Chan,xmeso,primitive streak late ,E7.5,E6.5_8.5_Chan,54_E6.5_8.5_Chan,10
+55_E6.5_8.5_Chan,xmeso,primitive blood progenitor,E7.5,E6.5_8.5_Chan,55_E6.5_8.5_Chan,12
+56_E6.5_8.5_Chan,xmeso,allantois ,E7.5,E6.5_8.5_Chan,56_E6.5_8.5_Chan,12
+57_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,57_E6.5_8.5_Chan,10
+58_E6.5_8.5_Chan,xmeso,primitive streak early ,E7.5,E6.5_8.5_Chan,58_E6.5_8.5_Chan,10
+59_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,59_E6.5_8.5_Chan,6
+60_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,60_E6.5_8.5_Chan,6
+61_E6.5_8.5_Chan,xendo,gut ,E7.5,E6.5_8.5_Chan,61_E6.5_8.5_Chan,15
+62_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E7.5,E6.5_8.5_Chan,62_E6.5_8.5_Chan,12
+63_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,63_E6.5_8.5_Chan,6
+64_E6.5_8.5_Chan,xecto,ectoderm early 2,E7.5,E6.5_8.5_Chan,64_E6.5_8.5_Chan,6
+65_E6.5_8.5_Chan,xmeso,primitive streak late ,E7.5,E6.5_8.5_Chan,65_E6.5_8.5_Chan,10
+66_E6.5_8.5_Chan,xmeso,splanchnic-lateral/anterior-paraxial mesoderm,E7.5,E6.5_8.5_Chan,66_E6.5_8.5_Chan,10
+67_E6.5_8.5_Chan,xendo,parietal endoderm ,E7.5,E6.5_8.5_Chan,67_E6.5_8.5_Chan,4
+68_E6.5_8.5_Chan,xendo,primitive and definitive endoderm,E7.5,E6.5_8.5_Chan,68_E6.5_8.5_Chan,16
+69_E6.5_8.5_Chan,xmeso,allantois ,E7.5,E6.5_8.5_Chan,69_E6.5_8.5_Chan,19
+70_E6.5_8.5_Chan,xmeso,node ,E7.5,E6.5_8.5_Chan,70_E6.5_8.5_Chan,15
+71_E6.5_8.5_Chan,xecto,differentiated trophoblasts,E7.5,E6.5_8.5_Chan,71_E6.5_8.5_Chan,17
+72_E6.5_8.5_Chan,xmeso,allantois ,E7.5,E6.5_8.5_Chan,72_E6.5_8.5_Chan,12
+73_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 2,E7.5,E6.5_8.5_Chan,73_E6.5_8.5_Chan,17
+74_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E7.5,E6.5_8.5_Chan,74_E6.5_8.5_Chan,12
+75_E6.5_8.5_Chan,xmeso,streak pre-specified/anterior,E7.5,E6.5_8.5_Chan,75_E6.5_8.5_Chan,10
+76_E6.5_8.5_Chan,xendo,visceral endoderm early,E7.5,E6.5_8.5_Chan,76_E6.5_8.5_Chan,16
+77_E6.5_8.5_Chan,pgcs,primordial germ cells (PGCs) ,E7.5,E6.5_8.5_Chan,77_E6.5_8.5_Chan,10
+78_E6.5_8.5_Chan,xecto,future spinal cord ,E8.0,E6.5_8.5_Chan,78_E6.5_8.5_Chan,2
+79_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.0,E6.5_8.5_Chan,79_E6.5_8.5_Chan,15
+80_E6.5_8.5_Chan,xmeso,primitive blood early ,E8.0,E6.5_8.5_Chan,80_E6.5_8.5_Chan,14
+81_E6.5_8.5_Chan,xecto,neural ectoderm anterior,E8.0,E6.5_8.5_Chan,81_E6.5_8.5_Chan,2
+82_E6.5_8.5_Chan,xecto,extraembryonic ectoderm 1,E8.0,E6.5_8.5_Chan,82_E6.5_8.5_Chan,17
+83_E6.5_8.5_Chan,xmeso,posterior lateral plate mesoderm ,E8.0,E6.5_8.5_Chan,83_E6.5_8.5_Chan,11
+84_E6.5_8.5_Chan,xmeso,NMPs early ,E8.0,E6.5_8.5_Chan,84_E6.5_8.5_Chan,2
+85_E6.5_8.5_Chan,xmeso,secondary heart field/splanchnic lateral plate,E8.0,E6.5_8.5_Chan,85_E6.5_8.5_Chan,11
+86_E6.5_8.5_Chan,xmeso,presomitic mesoderm ,E8.0,E6.5_8.5_Chan,86_E6.5_8.5_Chan,11
+87_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.0,E6.5_8.5_Chan,87_E6.5_8.5_Chan,2
+88_E6.5_8.5_Chan,xmeso,splanchnic-lateral/anterior-paraxial mesoderm,E8.0,E6.5_8.5_Chan,88_E6.5_8.5_Chan,11
+89_E6.5_8.5_Chan,xmeso,splanchnic-lateral/anterior-paraxial mesoderm,E8.0,E6.5_8.5_Chan,89_E6.5_8.5_Chan,11
+90_E6.5_8.5_Chan,xendo,visceral endoderm early,E8.0,E6.5_8.5_Chan,90_E6.5_8.5_Chan,16
+91_E6.5_8.5_Chan,xmeso,allantois ,E8.0,E6.5_8.5_Chan,91_E6.5_8.5_Chan,19
+92_E6.5_8.5_Chan,xecto,neural ectoderm anterior,E8.0,E6.5_8.5_Chan,92_E6.5_8.5_Chan,2
+93_E6.5_8.5_Chan,xmeso,primitive heart tube ,E8.0,E6.5_8.5_Chan,93_E6.5_8.5_Chan,19
+94_E6.5_8.5_Chan,xmeso,amnion mesoderm early,E8.0,E6.5_8.5_Chan,94_E6.5_8.5_Chan,19
+95_E6.5_8.5_Chan,xecto,surface ectoderm,E8.0,E6.5_8.5_Chan,95_E6.5_8.5_Chan,15
+96_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E8.0,E6.5_8.5_Chan,96_E6.5_8.5_Chan,12
+97_E6.5_8.5_Chan,xecto,neural crest ,E8.0,E6.5_8.5_Chan,97_E6.5_8.5_Chan,2
+98_E6.5_8.5_Chan,xmeso,posterior lateral plate mesoderm ,E8.0,E6.5_8.5_Chan,98_E6.5_8.5_Chan,11
+99_E6.5_8.5_Chan,xmeso,primitive blood early ,E8.0,E6.5_8.5_Chan,99_E6.5_8.5_Chan,14
+100_E6.5_8.5_Chan,xmeso,somites ,E8.0,E6.5_8.5_Chan,100_E6.5_8.5_Chan,11
+101_E6.5_8.5_Chan,xmeso,primitive blood early ,E8.0,E6.5_8.5_Chan,101_E6.5_8.5_Chan,14
+102_E6.5_8.5_Chan,xmeso,NMPs early ,E8.0,E6.5_8.5_Chan,102_E6.5_8.5_Chan,2
+103_E6.5_8.5_Chan,xmeso,amnion mesoderm early,E8.0,E6.5_8.5_Chan,103_E6.5_8.5_Chan,19
+104_E6.5_8.5_Chan,xmeso,allantois ,E8.0,E6.5_8.5_Chan,104_E6.5_8.5_Chan,19
+105_E6.5_8.5_Chan,xmeso,angioblasts ,E8.0,E6.5_8.5_Chan,105_E6.5_8.5_Chan,12
+106_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.0,E6.5_8.5_Chan,106_E6.5_8.5_Chan,15
+107_E6.5_8.5_Chan,xmeso,posterior lateral plate mesoderm ,E8.0,E6.5_8.5_Chan,107_E6.5_8.5_Chan,11
+108_E6.5_8.5_Chan,xendo,visceral endoderm late ,E8.0,E6.5_8.5_Chan,108_E6.5_8.5_Chan,16
+109_E6.5_8.5_Chan,xmeso,primitive blood early ,E8.0,E6.5_8.5_Chan,109_E6.5_8.5_Chan,14
+110_E6.5_8.5_Chan,xmeso,NMPs late ,E8.0,E6.5_8.5_Chan,110_E6.5_8.5_Chan,2
+111_E6.5_8.5_Chan,xmeso,somites ,E8.0,E6.5_8.5_Chan,111_E6.5_8.5_Chan,11
+112_E6.5_8.5_Chan,xecto,neural ectoderm anterior,E8.0,E6.5_8.5_Chan,112_E6.5_8.5_Chan,2
+113_E6.5_8.5_Chan,xecto,neural ectoderm anterior,E8.0,E6.5_8.5_Chan,113_E6.5_8.5_Chan,2
+114_E6.5_8.5_Chan,xendo,gut ,E8.0,E6.5_8.5_Chan,114_E6.5_8.5_Chan,15
+115_E6.5_8.5_Chan,xmeso,primitive blood progenitor,E8.0,E6.5_8.5_Chan,115_E6.5_8.5_Chan,14
+116_E6.5_8.5_Chan,xecto,differentiated trophoblasts,E8.0,E6.5_8.5_Chan,116_E6.5_8.5_Chan,17
+117_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.0,E6.5_8.5_Chan,117_E6.5_8.5_Chan,2
+118_E6.5_8.5_Chan,xecto,surface ectoderm,E8.0,E6.5_8.5_Chan,118_E6.5_8.5_Chan,19
+119_E6.5_8.5_Chan,xmeso,allantois ,E8.0,E6.5_8.5_Chan,119_E6.5_8.5_Chan,12
+120_E6.5_8.5_Chan,xendo,parietal endoderm ,E8.0,E6.5_8.5_Chan,120_E6.5_8.5_Chan,16
+121_E6.5_8.5_Chan,xecto,neural ectoderm anterior,E8.0,E6.5_8.5_Chan,121_E6.5_8.5_Chan,2
+122_E6.5_8.5_Chan,xmeso,presomitic mesoderm ,E8.0,E6.5_8.5_Chan,122_E6.5_8.5_Chan,2
+123_E6.5_8.5_Chan,xmeso,notochord ,E8.0,E6.5_8.5_Chan,123_E6.5_8.5_Chan,15
+124_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E8.0,E6.5_8.5_Chan,124_E6.5_8.5_Chan,12
+125_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,125_E6.5_8.5_Chan,2
+126_E6.5_8.5_Chan,xecto,future spinal cord ,E8.5,E6.5_8.5_Chan,126_E6.5_8.5_Chan,2
+127_E6.5_8.5_Chan,xmeso,primitive blood late,E8.5,E6.5_8.5_Chan,127_E6.5_8.5_Chan,14
+128_E6.5_8.5_Chan,xmeso,somites ,E8.5,E6.5_8.5_Chan,128_E6.5_8.5_Chan,11
+129_E6.5_8.5_Chan,xmeso,primitive blood late,E8.5,E6.5_8.5_Chan,129_E6.5_8.5_Chan,14
+130_E6.5_8.5_Chan,xendo,visceral endoderm late ,E8.5,E6.5_8.5_Chan,130_E6.5_8.5_Chan,16
+131_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.5,E6.5_8.5_Chan,131_E6.5_8.5_Chan,15
+132_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,132_E6.5_8.5_Chan,2
+133_E6.5_8.5_Chan,xecto,neural crest ,E8.5,E6.5_8.5_Chan,133_E6.5_8.5_Chan,11
+134_E6.5_8.5_Chan,xecto,similar to neural crest ,E8.5,E6.5_8.5_Chan,134_E6.5_8.5_Chan,11
+135_E6.5_8.5_Chan,xmeso,posterior lateral plate mesoderm ,E8.5,E6.5_8.5_Chan,135_E6.5_8.5_Chan,11
+136_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,136_E6.5_8.5_Chan,2
+137_E6.5_8.5_Chan,xmeso,NMPs late ,E8.5,E6.5_8.5_Chan,137_E6.5_8.5_Chan,2
+138_E6.5_8.5_Chan,xmeso,angioblasts ,E8.5,E6.5_8.5_Chan,138_E6.5_8.5_Chan,12
+139_E6.5_8.5_Chan,xmeso,presomitic mesoderm ,E8.5,E6.5_8.5_Chan,139_E6.5_8.5_Chan,11
+140_E6.5_8.5_Chan,xecto,surface ectoderm,E8.5,E6.5_8.5_Chan,140_E6.5_8.5_Chan,15
+141_E6.5_8.5_Chan,xmeso,pharyngeal arch mesoderm ,E8.5,E6.5_8.5_Chan,141_E6.5_8.5_Chan,11
+142_E6.5_8.5_Chan,xmeso,secondary heart field/splanchnic lateral plate,E8.5,E6.5_8.5_Chan,142_E6.5_8.5_Chan,11
+143_E6.5_8.5_Chan,xendo,gut ,E8.5,E6.5_8.5_Chan,143_E6.5_8.5_Chan,15
+144_E6.5_8.5_Chan,xmeso,primitive blood late,E8.5,E6.5_8.5_Chan,144_E6.5_8.5_Chan,14
+145_E6.5_8.5_Chan,xmeso,pharyngeal arch mesoderm ,E8.5,E6.5_8.5_Chan,145_E6.5_8.5_Chan,11
+146_E6.5_8.5_Chan,xmeso,secondary heart field/splanchnic lateral plate,E8.5,E6.5_8.5_Chan,146_E6.5_8.5_Chan,11
+147_E6.5_8.5_Chan,xecto,future spinal cord ,E8.5,E6.5_8.5_Chan,147_E6.5_8.5_Chan,2
+148_E6.5_8.5_Chan,xmeso,amnion mesoderm early,E8.5,E6.5_8.5_Chan,148_E6.5_8.5_Chan,19
+149_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.5,E6.5_8.5_Chan,149_E6.5_8.5_Chan,15
+150_E6.5_8.5_Chan,xmeso,secondary heart field/splanchnic lateral plate,E8.5,E6.5_8.5_Chan,150_E6.5_8.5_Chan,19
+151_E6.5_8.5_Chan,xmeso,allantois ,E8.5,E6.5_8.5_Chan,151_E6.5_8.5_Chan,19
+152_E6.5_8.5_Chan,xecto,similar to neural crest ,E8.5,E6.5_8.5_Chan,152_E6.5_8.5_Chan,2
+153_E6.5_8.5_Chan,xmeso,primitive heart tube ,E8.5,E6.5_8.5_Chan,153_E6.5_8.5_Chan,19
+154_E6.5_8.5_Chan,xmeso,primitive blood late,E8.5,E6.5_8.5_Chan,154_E6.5_8.5_Chan,14
+155_E6.5_8.5_Chan,xmeso,posterior lateral plate mesoderm ,E8.5,E6.5_8.5_Chan,155_E6.5_8.5_Chan,11
+156_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,156_E6.5_8.5_Chan,11
+157_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,157_E6.5_8.5_Chan,2
+158_E6.5_8.5_Chan,xecto,similar to neural crest ,E8.5,E6.5_8.5_Chan,158_E6.5_8.5_Chan,11
+159_E6.5_8.5_Chan,xmeso,amnion mesoderm late,E8.5,E6.5_8.5_Chan,159_E6.5_8.5_Chan,19
+160_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.5,E6.5_8.5_Chan,160_E6.5_8.5_Chan,15
+161_E6.5_8.5_Chan,xmeso,NMPs late ,E8.5,E6.5_8.5_Chan,161_E6.5_8.5_Chan,2
+162_E6.5_8.5_Chan,xecto,future spinal cord ,E8.5,E6.5_8.5_Chan,162_E6.5_8.5_Chan,2
+163_E6.5_8.5_Chan,xmeso,somites ,E8.5,E6.5_8.5_Chan,163_E6.5_8.5_Chan,11
+164_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E8.5,E6.5_8.5_Chan,164_E6.5_8.5_Chan,12
+165_E6.5_8.5_Chan,xecto,similar to neural crest ,E8.5,E6.5_8.5_Chan,165_E6.5_8.5_Chan,12
+166_E6.5_8.5_Chan,xmeso,NMPs late ,E8.5,E6.5_8.5_Chan,166_E6.5_8.5_Chan,15
+167_E6.5_8.5_Chan,xendo,parietal endoderm ,E8.5,E6.5_8.5_Chan,167_E6.5_8.5_Chan,4
+168_E6.5_8.5_Chan,xmeso,primitive blood progenitor,E8.5,E6.5_8.5_Chan,168_E6.5_8.5_Chan,14
+169_E6.5_8.5_Chan,xmeso,presomitic mesoderm ,E8.5,E6.5_8.5_Chan,169_E6.5_8.5_Chan,11
+170_E6.5_8.5_Chan,xecto,surface ectoderm,E8.5,E6.5_8.5_Chan,170_E6.5_8.5_Chan,19
+171_E6.5_8.5_Chan,xmeso,secondary heart field/splanchnic lateral plate,E8.5,E6.5_8.5_Chan,171_E6.5_8.5_Chan,11
+172_E6.5_8.5_Chan,xecto,fore/midbrain ,E8.5,E6.5_8.5_Chan,172_E6.5_8.5_Chan,2
+173_E6.5_8.5_Chan,xmeso,primitive blood late,E8.5,E6.5_8.5_Chan,173_E6.5_8.5_Chan,14
+174_E6.5_8.5_Chan,xecto,neural crest ,E8.5,E6.5_8.5_Chan,174_E6.5_8.5_Chan,11
+175_E6.5_8.5_Chan,xecto,preplacodal ectoderm ,E8.5,E6.5_8.5_Chan,175_E6.5_8.5_Chan,15
+176_E6.5_8.5_Chan,xecto,similar to neural crest ,E8.5,E6.5_8.5_Chan,176_E6.5_8.5_Chan,11
+177_E6.5_8.5_Chan,xmeso,somites ,E8.5,E6.5_8.5_Chan,177_E6.5_8.5_Chan,11
+178_E6.5_8.5_Chan,xmeso,notochord ,E8.5,E6.5_8.5_Chan,178_E6.5_8.5_Chan,15
+179_E6.5_8.5_Chan,xecto,differentiated trophoblasts,E8.5,E6.5_8.5_Chan,179_E6.5_8.5_Chan,17
+180_E6.5_8.5_Chan,xmeso,haematopoeitic/endothelial progenitor,E8.5,E6.5_8.5_Chan,180_E6.5_8.5_Chan,12
+181_E6.5_8.5_Chan,xendo,visceral endoderm late ,E8.5,E6.5_8.5_Chan,181_E6.5_8.5_Chan,16
+182_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,182_E6.5_8.5_Marioni,6
+183_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E6.5,E6.5_8.5_Marioni,183_E6.5_8.5_Marioni,17
+184_E6.5_8.5_Marioni,endoderm,Parietal endoderm,E6.5,E6.5_8.5_Marioni,184_E6.5_8.5_Marioni,4
+185_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,185_E6.5_8.5_Marioni,6
+186_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,186_E6.5_8.5_Marioni,6
+187_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,187_E6.5_8.5_Marioni,6
+188_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,188_E6.5_8.5_Marioni,6
+189_E6.5_8.5_Marioni,epiblast,Primitive Streak,E6.5,E6.5_8.5_Marioni,189_E6.5_8.5_Marioni,6
+190_E6.5_8.5_Marioni,endoderm,ExE endoderm,E6.5,E6.5_8.5_Marioni,190_E6.5_8.5_Marioni,16
+191_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,191_E6.5_8.5_Marioni,6
+192_E6.5_8.5_Marioni,epiblast,Epiblast,E6.5,E6.5_8.5_Marioni,192_E6.5_8.5_Marioni,6
+193_E6.5_8.5_Marioni,epiblast,Epiblast,E6.75,E6.5_8.5_Marioni,193_E6.5_8.5_Marioni,6
+194_E6.5_8.5_Marioni,mesoderm,Nascent mesoderm,E6.75,E6.5_8.5_Marioni,194_E6.5_8.5_Marioni,10
+195_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E6.75,E6.5_8.5_Marioni,195_E6.5_8.5_Marioni,17
+196_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E6.75,E6.5_8.5_Marioni,196_E6.5_8.5_Marioni,17
+197_E6.5_8.5_Marioni,epiblast,Epiblast,E6.75,E6.5_8.5_Marioni,197_E6.5_8.5_Marioni,6
+198_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E6.75,E6.5_8.5_Marioni,198_E6.5_8.5_Marioni,17
+199_E6.5_8.5_Marioni,epiblast,Epiblast,E6.75,E6.5_8.5_Marioni,199_E6.5_8.5_Marioni,6
+200_E6.5_8.5_Marioni,endoderm,ExE endoderm,E6.75,E6.5_8.5_Marioni,200_E6.5_8.5_Marioni,16
+201_E6.5_8.5_Marioni,epiblast,Primitive Streak,E6.75,E6.5_8.5_Marioni,201_E6.5_8.5_Marioni,6
+202_E6.5_8.5_Marioni,endoderm,Visceral endoderm,E6.75,E6.5_8.5_Marioni,202_E6.5_8.5_Marioni,16
+203_E6.5_8.5_Marioni,epiblast,Primitive Streak,E6.75,E6.5_8.5_Marioni,203_E6.5_8.5_Marioni,6
+204_E6.5_8.5_Marioni,epiblast,Epiblast,E6.75,E6.5_8.5_Marioni,204_E6.5_8.5_Marioni,6
+205_E6.5_8.5_Marioni,epiblast,Epiblast,E7.0,E6.5_8.5_Marioni,205_E6.5_8.5_Marioni,6
+206_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.0,E6.5_8.5_Marioni,206_E6.5_8.5_Marioni,6
+207_E6.5_8.5_Marioni,epiblast,Epiblast,E7.0,E6.5_8.5_Marioni,207_E6.5_8.5_Marioni,6
+208_E6.5_8.5_Marioni,mesoderm,Haematoendothelial progenitors,E7.0,E6.5_8.5_Marioni,208_E6.5_8.5_Marioni,12
+209_E6.5_8.5_Marioni,epiblast,Epiblast,E7.0,E6.5_8.5_Marioni,209_E6.5_8.5_Marioni,6
+210_E6.5_8.5_Marioni,endoderm,Parietal endoderm,E7.0,E6.5_8.5_Marioni,210_E6.5_8.5_Marioni,4
+211_E6.5_8.5_Marioni,mesoderm,Nascent mesoderm,E7.0,E6.5_8.5_Marioni,211_E6.5_8.5_Marioni,10
+212_E6.5_8.5_Marioni,epiblast,Epiblast,E7.0,E6.5_8.5_Marioni,212_E6.5_8.5_Marioni,6
+213_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.0,E6.5_8.5_Marioni,213_E6.5_8.5_Marioni,17
+214_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.0,E6.5_8.5_Marioni,214_E6.5_8.5_Marioni,6
+215_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.0,E6.5_8.5_Marioni,215_E6.5_8.5_Marioni,16
+216_E6.5_8.5_Marioni,epiblast,Anterior Primitive Streak,E7.0,E6.5_8.5_Marioni,216_E6.5_8.5_Marioni,6
+217_E6.5_8.5_Marioni,endoderm,Visceral endoderm,E7.0,E6.5_8.5_Marioni,217_E6.5_8.5_Marioni,16
+218_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.0,E6.5_8.5_Marioni,218_E6.5_8.5_Marioni,17
+219_E6.5_8.5_Marioni,epiblast,Epiblast,E7.25,E6.5_8.5_Marioni,219_E6.5_8.5_Marioni,6
+220_E6.5_8.5_Marioni,epiblast,Epiblast,E7.25,E6.5_8.5_Marioni,220_E6.5_8.5_Marioni,6
+221_E6.5_8.5_Marioni,epiblast,Anterior Primitive Streak,E7.25,E6.5_8.5_Marioni,221_E6.5_8.5_Marioni,10
+222_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.25,E6.5_8.5_Marioni,222_E6.5_8.5_Marioni,16
+223_E6.5_8.5_Marioni,mesoderm,Nascent mesoderm,E7.25,E6.5_8.5_Marioni,223_E6.5_8.5_Marioni,10
+224_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.25,E6.5_8.5_Marioni,224_E6.5_8.5_Marioni,16
+225_E6.5_8.5_Marioni,mesoderm,Haematoendothelial progenitors,E7.25,E6.5_8.5_Marioni,225_E6.5_8.5_Marioni,12
+226_E6.5_8.5_Marioni,endoderm,Visceral endoderm,E7.25,E6.5_8.5_Marioni,226_E6.5_8.5_Marioni,16
+227_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.25,E6.5_8.5_Marioni,227_E6.5_8.5_Marioni,10
+228_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.25,E6.5_8.5_Marioni,228_E6.5_8.5_Marioni,10
+229_E6.5_8.5_Marioni,endoderm,Parietal endoderm,E7.25,E6.5_8.5_Marioni,229_E6.5_8.5_Marioni,4
+230_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.25,E6.5_8.5_Marioni,230_E6.5_8.5_Marioni,17
+231_E6.5_8.5_Marioni,mesoderm,Nascent mesoderm,E7.25,E6.5_8.5_Marioni,231_E6.5_8.5_Marioni,10
+232_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.25,E6.5_8.5_Marioni,232_E6.5_8.5_Marioni,6
+233_E6.5_8.5_Marioni,epiblast,Epiblast,E7.25,E6.5_8.5_Marioni,233_E6.5_8.5_Marioni,6
+234_E6.5_8.5_Marioni,epiblast,Primitive Streak,E7.25,E6.5_8.5_Marioni,234_E6.5_8.5_Marioni,6
+235_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.25,E6.5_8.5_Marioni,235_E6.5_8.5_Marioni,17
+236_E6.5_8.5_Marioni,mesoderm,Nascent mesoderm,E7.25,E6.5_8.5_Marioni,236_E6.5_8.5_Marioni,10
+237_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.25,E6.5_8.5_Marioni,237_E6.5_8.5_Marioni,17
+238_E6.5_8.5_Marioni,epiblast,Epiblast,E7.25,E6.5_8.5_Marioni,238_E6.5_8.5_Marioni,6
+239_E6.5_8.5_Marioni,ectoderm,Rostral neurectoderm,E7.75,E6.5_8.5_Marioni,239_E6.5_8.5_Marioni,10
+240_E6.5_8.5_Marioni,mesoderm,Mesenchyme,E7.75,E6.5_8.5_Marioni,240_E6.5_8.5_Marioni,19
+241_E6.5_8.5_Marioni,mesoderm,Erythroid1,E7.75,E6.5_8.5_Marioni,241_E6.5_8.5_Marioni,14
+242_E6.5_8.5_Marioni,mesoderm,Blood progenitors 2,E7.75,E6.5_8.5_Marioni,242_E6.5_8.5_Marioni,14
+243_E6.5_8.5_Marioni,endoderm,Gut,E7.75,E6.5_8.5_Marioni,243_E6.5_8.5_Marioni,15
+244_E6.5_8.5_Marioni,mesoderm,Haematoendothelial progenitors,E7.75,E6.5_8.5_Marioni,244_E6.5_8.5_Marioni,12
+245_E6.5_8.5_Marioni,mesoderm,Intermediate mesoderm,E7.75,E6.5_8.5_Marioni,245_E6.5_8.5_Marioni,11
+246_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.75,E6.5_8.5_Marioni,246_E6.5_8.5_Marioni,17
+247_E6.5_8.5_Marioni,mesoderm,Cardiomyocytes,E7.75,E6.5_8.5_Marioni,247_E6.5_8.5_Marioni,19
+248_E6.5_8.5_Marioni,mesoderm,Notochord,E7.75,E6.5_8.5_Marioni,248_E6.5_8.5_Marioni,15
+249_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.75,E6.5_8.5_Marioni,249_E6.5_8.5_Marioni,16
+250_E6.5_8.5_Marioni,epiblast,Caudal epiblast,E7.75,E6.5_8.5_Marioni,250_E6.5_8.5_Marioni,2
+251_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.75,E6.5_8.5_Marioni,251_E6.5_8.5_Marioni,17
+252_E6.5_8.5_Marioni,ectoderm,Rostral neurectoderm,E7.75,E6.5_8.5_Marioni,252_E6.5_8.5_Marioni,10
+253_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E7.75,E6.5_8.5_Marioni,253_E6.5_8.5_Marioni,17
+254_E6.5_8.5_Marioni,mesoderm,Intermediate mesoderm,E7.75,E6.5_8.5_Marioni,254_E6.5_8.5_Marioni,11
+255_E6.5_8.5_Marioni,mesoderm,Paraxial mesoderm,E7.75,E6.5_8.5_Marioni,255_E6.5_8.5_Marioni,11
+256_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.75,E6.5_8.5_Marioni,256_E6.5_8.5_Marioni,16
+257_E6.5_8.5_Marioni,endoderm,ExE endoderm,E7.75,E6.5_8.5_Marioni,257_E6.5_8.5_Marioni,16
+258_E6.5_8.5_Marioni,mesoderm,Paraxial mesoderm,E8.0,E6.5_8.5_Marioni,258_E6.5_8.5_Marioni,11
+259_E6.5_8.5_Marioni,mesoderm,Blood progenitors 2,E8.0,E6.5_8.5_Marioni,259_E6.5_8.5_Marioni,14
+260_E6.5_8.5_Marioni,mesoderm,Haematoendothelial progenitors,E8.0,E6.5_8.5_Marioni,260_E6.5_8.5_Marioni,12
+261_E6.5_8.5_Marioni,mesoderm,Mesenchyme,E8.0,E6.5_8.5_Marioni,261_E6.5_8.5_Marioni,19
+262_E6.5_8.5_Marioni,mesoderm,Intermediate mesoderm,E8.0,E6.5_8.5_Marioni,262_E6.5_8.5_Marioni,11
+263_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.0,E6.5_8.5_Marioni,263_E6.5_8.5_Marioni,15
+264_E6.5_8.5_Marioni,mesoderm,Pharyngeal mesoderm,E8.0,E6.5_8.5_Marioni,264_E6.5_8.5_Marioni,19
+265_E6.5_8.5_Marioni,endoderm,Gut,E8.0,E6.5_8.5_Marioni,265_E6.5_8.5_Marioni,15
+266_E6.5_8.5_Marioni,ectoderm,Rostral neurectoderm,E8.0,E6.5_8.5_Marioni,266_E6.5_8.5_Marioni,2
+267_E6.5_8.5_Marioni,mesoderm,Notochord,E8.0,E6.5_8.5_Marioni,267_E6.5_8.5_Marioni,15
+268_E6.5_8.5_Marioni,endoderm,Parietal endoderm,E8.0,E6.5_8.5_Marioni,268_E6.5_8.5_Marioni,4
+269_E6.5_8.5_Marioni,ectoderm,Rostral neurectoderm,E8.0,E6.5_8.5_Marioni,269_E6.5_8.5_Marioni,2
+270_E6.5_8.5_Marioni,mesoderm,Intermediate mesoderm,E8.0,E6.5_8.5_Marioni,270_E6.5_8.5_Marioni,11
+271_E6.5_8.5_Marioni,epiblast,Caudal epiblast,E8.0,E6.5_8.5_Marioni,271_E6.5_8.5_Marioni,2
+272_E6.5_8.5_Marioni,endoderm,ExE endoderm,E8.0,E6.5_8.5_Marioni,272_E6.5_8.5_Marioni,16
+273_E6.5_8.5_Marioni,mesoderm,ExE mesoderm,E8.0,E6.5_8.5_Marioni,273_E6.5_8.5_Marioni,19
+274_E6.5_8.5_Marioni,mesoderm,Erythroid1,E8.0,E6.5_8.5_Marioni,274_E6.5_8.5_Marioni,14
+275_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E8.0,E6.5_8.5_Marioni,275_E6.5_8.5_Marioni,17
+276_E6.5_8.5_Marioni,ectoderm,Caudal neurectoderm,E8.0,E6.5_8.5_Marioni,276_E6.5_8.5_Marioni,2
+277_E6.5_8.5_Marioni,ectoderm,Forebrain/Midbrain/Hindbrain,E8.25,E6.5_8.5_Marioni,277_E6.5_8.5_Marioni,2
+278_E6.5_8.5_Marioni,ectoderm,Forebrain/Midbrain/Hindbrain,E8.25,E6.5_8.5_Marioni,278_E6.5_8.5_Marioni,2
+279_E6.5_8.5_Marioni,mesoderm,Mesenchyme,E8.25,E6.5_8.5_Marioni,279_E6.5_8.5_Marioni,19
+280_E6.5_8.5_Marioni,mesoderm,Pharyngeal mesoderm,E8.25,E6.5_8.5_Marioni,280_E6.5_8.5_Marioni,11
+281_E6.5_8.5_Marioni,mesoderm,Erythroid2,E8.25,E6.5_8.5_Marioni,281_E6.5_8.5_Marioni,14
+282_E6.5_8.5_Marioni,endoderm,ExE endoderm,E8.25,E6.5_8.5_Marioni,282_E6.5_8.5_Marioni,16
+283_E6.5_8.5_Marioni,mesoderm,Cardiomyocytes,E8.25,E6.5_8.5_Marioni,283_E6.5_8.5_Marioni,19
+284_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.25,E6.5_8.5_Marioni,284_E6.5_8.5_Marioni,15
+285_E6.5_8.5_Marioni,endoderm,Gut,E8.25,E6.5_8.5_Marioni,285_E6.5_8.5_Marioni,15
+286_E6.5_8.5_Marioni,ectoderm,ExE ectoderm,E8.25,E6.5_8.5_Marioni,286_E6.5_8.5_Marioni,17
+287_E6.5_8.5_Marioni,mesoderm,NMP,E8.25,E6.5_8.5_Marioni,287_E6.5_8.5_Marioni,2
+288_E6.5_8.5_Marioni,mesoderm,Paraxial mesoderm,E8.25,E6.5_8.5_Marioni,288_E6.5_8.5_Marioni,11
+289_E6.5_8.5_Marioni,mesoderm,Intermediate mesoderm,E8.25,E6.5_8.5_Marioni,289_E6.5_8.5_Marioni,11
+290_E6.5_8.5_Marioni,mesoderm,Erythroid1,E8.25,E6.5_8.5_Marioni,290_E6.5_8.5_Marioni,14
+291_E6.5_8.5_Marioni,mesoderm,Somitic mesoderm,E8.25,E6.5_8.5_Marioni,291_E6.5_8.5_Marioni,11
+292_E6.5_8.5_Marioni,mesoderm,Haematoendothelial progenitors,E8.25,E6.5_8.5_Marioni,292_E6.5_8.5_Marioni,12
+293_E6.5_8.5_Marioni,mesoderm,Allantois,E8.25,E6.5_8.5_Marioni,293_E6.5_8.5_Marioni,19
+294_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.25,E6.5_8.5_Marioni,294_E6.5_8.5_Marioni,15
+295_E6.5_8.5_Marioni,ectoderm,Forebrain/Midbrain/Hindbrain,E8.5,E6.5_8.5_Marioni,295_E6.5_8.5_Marioni,2
+296_E6.5_8.5_Marioni,mesoderm,Erythroid3,E8.5,E6.5_8.5_Marioni,296_E6.5_8.5_Marioni,14
+297_E6.5_8.5_Marioni,ectoderm,Forebrain/Midbrain/Hindbrain,E8.5,E6.5_8.5_Marioni,297_E6.5_8.5_Marioni,2
+298_E6.5_8.5_Marioni,mesoderm,Paraxial mesoderm,E8.5,E6.5_8.5_Marioni,298_E6.5_8.5_Marioni,11
+299_E6.5_8.5_Marioni,mesoderm,Allantois,E8.5,E6.5_8.5_Marioni,299_E6.5_8.5_Marioni,19
+300_E6.5_8.5_Marioni,ectoderm,Neural crest,E8.5,E6.5_8.5_Marioni,300_E6.5_8.5_Marioni,11
+301_E6.5_8.5_Marioni,mesoderm,Cardiomyocytes,E8.5,E6.5_8.5_Marioni,301_E6.5_8.5_Marioni,19
+302_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.5,E6.5_8.5_Marioni,302_E6.5_8.5_Marioni,15
+303_E6.5_8.5_Marioni,mesoderm,Somitic mesoderm,E8.5,E6.5_8.5_Marioni,303_E6.5_8.5_Marioni,11
+304_E6.5_8.5_Marioni,endoderm,ExE endoderm,E8.5,E6.5_8.5_Marioni,304_E6.5_8.5_Marioni,16
+305_E6.5_8.5_Marioni,mesoderm,Erythroid3,E8.5,E6.5_8.5_Marioni,305_E6.5_8.5_Marioni,14
+306_E6.5_8.5_Marioni,mesoderm,Blood progenitors 2,E8.5,E6.5_8.5_Marioni,306_E6.5_8.5_Marioni,14
+307_E6.5_8.5_Marioni,mesoderm,ExE mesoderm,E8.5,E6.5_8.5_Marioni,307_E6.5_8.5_Marioni,11
+308_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.5,E6.5_8.5_Marioni,308_E6.5_8.5_Marioni,19
+309_E6.5_8.5_Marioni,mesoderm,Erythroid3,E8.5,E6.5_8.5_Marioni,309_E6.5_8.5_Marioni,14
+310_E6.5_8.5_Marioni,ectoderm,Forebrain/Midbrain/Hindbrain,E8.5,E6.5_8.5_Marioni,310_E6.5_8.5_Marioni,2
+311_E6.5_8.5_Marioni,mesoderm,Paraxial mesoderm,E8.5,E6.5_8.5_Marioni,311_E6.5_8.5_Marioni,11
+312_E6.5_8.5_Marioni,ectoderm,Surface ectoderm,E8.5,E6.5_8.5_Marioni,312_E6.5_8.5_Marioni,15
+313_E6.5_8.5_Marioni,mesoderm,NMP,E8.5,E6.5_8.5_Marioni,313_E6.5_8.5_Marioni,2
+314_E6.5_8.5_Marioni,mesoderm,Mesenchyme,E8.5,E6.5_8.5_Marioni,314_E6.5_8.5_Marioni,19
+315_E6.5_8.5_Marioni,mesoderm,Endothelium,E8.5,E6.5_8.5_Marioni,315_E6.5_8.5_Marioni,12
+316_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,316_E5.5_Nowotschin,10
+317_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,317_E5.5_Nowotschin,10
+318_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,318_E5.5_Nowotschin,10
+319_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,319_E5.5_Nowotschin,12
+320_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,320_E5.5_Nowotschin,10
+321_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,321_E5.5_Nowotschin,10
+322_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,322_E5.5_Nowotschin,10
+323_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,323_E5.5_Nowotschin,10
+324_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,324_E5.5_Nowotschin,17
+325_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,325_E5.5_Nowotschin,10
+326_E5.5_Nowotschin,evendo,exVE,E5.5,E5.5_Nowotschin,326_E5.5_Nowotschin,16
+327_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,327_E5.5_Nowotschin,10
+328_E5.5_Nowotschin,endoderm,emVE,E5.5,E5.5_Nowotschin,328_E5.5_Nowotschin,16
+329_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,329_E5.5_Nowotschin,17
+330_E5.5_Nowotschin,evendo,exVE,E5.5,E5.5_Nowotschin,330_E5.5_Nowotschin,16
+331_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,331_E5.5_Nowotschin,10
+332_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,332_E5.5_Nowotschin,17
+333_E5.5_Nowotschin,epiblast,EPI,E5.5,E5.5_Nowotschin,333_E5.5_Nowotschin,10
+334_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,334_E5.5_Nowotschin,17
+335_E5.5_Nowotschin,xecto,ExE,E5.5,E5.5_Nowotschin,335_E5.5_Nowotschin,12
+336_18m 10x,bladder,bladder cell,18m,18m 10x,336_18m 10x,5
+337_18m 10x,bladder,bladder urothelial cell,18m,18m 10x,337_18m 10x,7
+338_18m 10x,bladder,endothelial cell,18m,18m 10x,338_18m 10x,24
+339_18m 10x,bladder,leukocyte,18m,18m 10x,339_18m 10x,20
+340_1m 10x,bladder,bladder cell,1m,1m 10x,340_1m 10x,5
+341_1m 10x,bladder,bladder urothelial cell,1m,1m 10x,341_1m 10x,7
+342_1m 10x,bladder,endothelial cell,1m,1m 10x,342_1m 10x,24
+343_1m 10x,bladder,leukocyte,1m,1m 10x,343_1m 10x,20
+344_24m 10x,bladder,bladder cell,24m,24m 10x,344_24m 10x,5
+345_24m 10x,bladder,bladder urothelial cell,24m,24m 10x,345_24m 10x,7
+346_24m 10x,bladder,endothelial cell,24m,24m 10x,346_24m 10x,24
+347_24m 10x,bladder,leukocyte,24m,24m 10x,347_24m 10x,20
+348_3m 10x,bladder,bladder cell,3m,3m 10x,348_3m 10x,5
+349_3m 10x,bladder,bladder urothelial cell,3m,3m 10x,349_3m 10x,7
+350_3m 10x,bladder,endothelial cell,3m,3m 10x,350_3m 10x,24
+351_3m 10x,bladder,leukocyte,3m,3m 10x,351_3m 10x,20
+352_18m 10x,fat,B cell,18m,18m 10x,352_18m 10x,8
+353_18m 10x,fat,endothelial cell,18m,18m 10x,353_18m 10x,0
+354_18m 10x,fat,epithelial cell,18m,18m 10x,354_18m 10x,7
+355_18m 10x,fat,erythroblast,18m,18m 10x,355_18m 10x,14
+356_18m 10x,fat,mesenchymal stem cell of adipose,18m,18m 10x,356_18m 10x,5
+357_18m 10x,fat,myeloid cell,18m,18m 10x,357_18m 10x,20
+358_18m 10x,fat,T cell,18m,18m 10x,358_18m 10x,1
+359_21m 10x,fat,B cell,21m,21m 10x,359_21m 10x,8
+360_21m 10x,fat,endothelial cell,21m,21m 10x,360_21m 10x,0
+361_21m 10x,fat,epithelial cell,21m,21m 10x,361_21m 10x,7
+362_21m 10x,fat,mesenchymal stem cell of adipose,21m,21m 10x,362_21m 10x,5
+363_21m 10x,fat,myeloid cell,21m,21m 10x,363_21m 10x,20
+364_21m 10x,fat,T cell,21m,21m 10x,364_21m 10x,1
+365_30m 10x,fat,B cell,30m,30m 10x,365_30m 10x,8
+366_30m 10x,fat,endothelial cell,30m,30m 10x,366_30m 10x,0
+367_30m 10x,fat,lymphocyte,30m,30m 10x,367_30m 10x,8
+368_30m 10x,fat,mesenchymal stem cell of adipose,30m,30m 10x,368_30m 10x,5
+369_30m 10x,fat,myeloid cell,30m,30m 10x,369_30m 10x,20
+370_30m 10x,fat,T cell,30m,30m 10x,370_30m 10x,1
+371_18m 10x,heart_and_aorta,cardiomyocyte,18m,18m 10x,371_18m 10x,3
+372_18m 10x,heart_and_aorta,endocardial cell,18m,18m 10x,372_18m 10x,0
+373_18m 10x,heart_and_aorta,endothelial cell of coronary artery,18m,18m 10x,373_18m 10x,0
+374_18m 10x,heart_and_aorta,fibroblast of cardiac tissue,18m,18m 10x,374_18m 10x,5
+375_18m 10x,heart_and_aorta,leukocyte,18m,18m 10x,375_18m 10x,13
+376_18m 10x,heart_and_aorta,smooth muscle cell,18m,18m 10x,376_18m 10x,24
+377_1m 10x,heart_and_aorta,cardiomyocyte,1m,1m 10x,377_1m 10x,3
+378_1m 10x,heart_and_aorta,endocardial cell,1m,1m 10x,378_1m 10x,0
+379_1m 10x,heart_and_aorta,endothelial cell of coronary artery,1m,1m 10x,379_1m 10x,0
+380_1m 10x,heart_and_aorta,fibroblast of cardiac tissue,1m,1m 10x,380_1m 10x,5
+381_1m 10x,heart_and_aorta,leukocyte,1m,1m 10x,381_1m 10x,13
+382_1m 10x,heart_and_aorta,smooth muscle cell,1m,1m 10x,382_1m 10x,24
+383_21m 10x,heart_and_aorta,cardiomyocyte,21m,21m 10x,383_21m 10x,3
+384_21m 10x,heart_and_aorta,endocardial cell,21m,21m 10x,384_21m 10x,0
+385_21m 10x,heart_and_aorta,endothelial cell of coronary artery,21m,21m 10x,385_21m 10x,0
+386_21m 10x,heart_and_aorta,fibroblast of cardiac tissue,21m,21m 10x,386_21m 10x,5
+387_21m 10x,heart_and_aorta,leukocyte,21m,21m 10x,387_21m 10x,13
+388_24m 10x,heart_and_aorta,endocardial cell,24m,24m 10x,388_24m 10x,0
+389_24m 10x,heart_and_aorta,endothelial cell of coronary artery,24m,24m 10x,389_24m 10x,0
+390_24m 10x,heart_and_aorta,fibroblast of cardiac tissue,24m,24m 10x,390_24m 10x,5
+391_24m 10x,heart_and_aorta,leukocyte,24m,24m 10x,391_24m 10x,13
+392_24m 10x,heart_and_aorta,smooth muscle cell,24m,24m 10x,392_24m 10x,24
+393_30m 10x,heart_and_aorta,cardiomyocyte,30m,30m 10x,393_30m 10x,3
+394_30m 10x,heart_and_aorta,endocardial cell,30m,30m 10x,394_30m 10x,0
+395_30m 10x,heart_and_aorta,endothelial cell of coronary artery,30m,30m 10x,395_30m 10x,0
+396_30m 10x,heart_and_aorta,erythrocyte,30m,30m 10x,396_30m 10x,12
+397_30m 10x,heart_and_aorta,fibroblast of cardiac tissue,30m,30m 10x,397_30m 10x,5
+398_30m 10x,heart_and_aorta,leukocyte,30m,30m 10x,398_30m 10x,13
+399_30m 10x,heart_and_aorta,mast cell,30m,30m 10x,399_30m 10x,21
+400_30m 10x,heart_and_aorta,smooth muscle cell,30m,30m 10x,400_30m 10x,24
+401_3m 10x,heart_and_aorta,cardiomyocyte,3m,3m 10x,401_3m 10x,3
+402_3m 10x,heart_and_aorta,endocardial cell,3m,3m 10x,402_3m 10x,0
+403_3m 10x,heart_and_aorta,endothelial cell of coronary artery,3m,3m 10x,403_3m 10x,0
+404_3m 10x,heart_and_aorta,fibroblast of cardiac tissue,3m,3m 10x,404_3m 10x,5
+405_3m 10x,heart_and_aorta,leukocyte,3m,3m 10x,405_3m 10x,13
+406_18m 10x,kidney,B cell,18m,18m 10x,406_18m 10x,8
+407_18m 10x,kidney,brush cell,18m,18m 10x,407_18m 10x,26
+408_18m 10x,kidney,epithelial cell of proximal tubule,18m,18m 10x,408_18m 10x,26
+409_18m 10x,kidney,fenestrated cell,18m,18m 10x,409_18m 10x,0
+410_18m 10x,kidney,fibroblast,18m,18m 10x,410_18m 10x,5
+411_18m 10x,kidney,kidney collecting duct principal cell,18m,18m 10x,411_18m 10x,25
+412_18m 10x,kidney,kidney cortex artery cell,18m,18m 10x,412_18m 10x,0
+413_18m 10x,kidney,kidney distal convoluted tubule epithelial cell,18m,18m 10x,413_18m 10x,25
+414_18m 10x,kidney,kidney loop of Henle ascending limb epithelial cell,18m,18m 10x,414_18m 10x,25
+415_18m 10x,kidney,kidney loop of Henle thick ascending limb epithelial cell,18m,18m 10x,415_18m 10x,25
+416_18m 10x,kidney,kidney mesangial cell,18m,18m 10x,416_18m 10x,24
+417_18m 10x,kidney,kidney proximal convoluted tubule epithelial cell,18m,18m 10x,417_18m 10x,26
+418_18m 10x,kidney,lymphocyte,18m,18m 10x,418_18m 10x,18
+419_18m 10x,kidney,macrophage,18m,18m 10x,419_18m 10x,13
+420_18m 10x,kidney,podocyte,18m,18m 10x,420_18m 10x,25
+421_18m 10x,kidney,T cell,18m,18m 10x,421_18m 10x,1
+422_1m 10x,kidney,brush cell,1m,1m 10x,422_1m 10x,26
+423_1m 10x,kidney,epithelial cell of proximal tubule,1m,1m 10x,423_1m 10x,26
+424_1m 10x,kidney,fenestrated cell,1m,1m 10x,424_1m 10x,0
+425_1m 10x,kidney,kidney capillary endothelial cell,1m,1m 10x,425_1m 10x,0
+426_1m 10x,kidney,kidney collecting duct principal cell,1m,1m 10x,426_1m 10x,25
+427_1m 10x,kidney,kidney cortex artery cell,1m,1m 10x,427_1m 10x,0
+428_1m 10x,kidney,kidney distal convoluted tubule epithelial cell,1m,1m 10x,428_1m 10x,25
+429_1m 10x,kidney,kidney loop of Henle ascending limb epithelial cell,1m,1m 10x,429_1m 10x,25
+430_1m 10x,kidney,kidney loop of Henle thick ascending limb epithelial cell,1m,1m 10x,430_1m 10x,25
+431_1m 10x,kidney,kidney mesangial cell,1m,1m 10x,431_1m 10x,24
+432_1m 10x,kidney,kidney proximal convoluted tubule epithelial cell,1m,1m 10x,432_1m 10x,26
+433_1m 10x,kidney,macrophage,1m,1m 10x,433_1m 10x,13
+434_1m 10x,kidney,podocyte,1m,1m 10x,434_1m 10x,25
+435_21m 10x,kidney,B cell,21m,21m 10x,435_21m 10x,8
+436_21m 10x,kidney,brush cell,21m,21m 10x,436_21m 10x,26
+437_21m 10x,kidney,epithelial cell of proximal tubule,21m,21m 10x,437_21m 10x,26
+438_21m 10x,kidney,fenestrated cell,21m,21m 10x,438_21m 10x,0
+439_21m 10x,kidney,kidney collecting duct principal cell,21m,21m 10x,439_21m 10x,25
+440_21m 10x,kidney,kidney cortex artery cell,21m,21m 10x,440_21m 10x,0
+441_21m 10x,kidney,kidney distal convoluted tubule epithelial cell,21m,21m 10x,441_21m 10x,25
+442_21m 10x,kidney,kidney loop of Henle thick ascending limb epithelial cell,21m,21m 10x,442_21m 10x,25
+443_21m 10x,kidney,kidney mesangial cell,21m,21m 10x,443_21m 10x,24
+444_21m 10x,kidney,kidney proximal convoluted tubule epithelial cell,21m,21m 10x,444_21m 10x,26
+445_21m 10x,kidney,lymphocyte,21m,21m 10x,445_21m 10x,18
+446_21m 10x,kidney,macrophage,21m,21m 10x,446_21m 10x,13
+447_21m 10x,kidney,podocyte,21m,21m 10x,447_21m 10x,25
+448_21m 10x,kidney,T cell,21m,21m 10x,448_21m 10x,1
+449_24m 10x,kidney,B cell,24m,24m 10x,449_24m 10x,8
+450_24m 10x,kidney,lymphocyte,24m,24m 10x,450_24m 10x,14
+451_24m 10x,kidney,macrophage,24m,24m 10x,451_24m 10x,22
+452_24m 10x,kidney,NK cell,24m,24m 10x,452_24m 10x,30
+453_24m 10x,kidney,plasma cell,24m,24m 10x,453_24m 10x,32
+454_24m 10x,kidney,T cell,24m,24m 10x,454_24m 10x,1
+455_30m 10x,kidney,B cell,30m,30m 10x,455_30m 10x,8
+456_30m 10x,kidney,brush cell,30m,30m 10x,456_30m 10x,26
+457_30m 10x,kidney,epithelial cell of proximal tubule,30m,30m 10x,457_30m 10x,26
+458_30m 10x,kidney,fenestrated cell,30m,30m 10x,458_30m 10x,0
+459_30m 10x,kidney,fibroblast,30m,30m 10x,459_30m 10x,5
+460_30m 10x,kidney,kidney collecting duct principal cell,30m,30m 10x,460_30m 10x,25
+461_30m 10x,kidney,kidney cortex artery cell,30m,30m 10x,461_30m 10x,0
+462_30m 10x,kidney,kidney distal convoluted tubule epithelial cell,30m,30m 10x,462_30m 10x,25
+463_30m 10x,kidney,kidney loop of Henle ascending limb epithelial cell,30m,30m 10x,463_30m 10x,25
+464_30m 10x,kidney,kidney loop of Henle thick ascending limb epithelial cell,30m,30m 10x,464_30m 10x,25
+465_30m 10x,kidney,kidney proximal convoluted tubule epithelial cell,30m,30m 10x,465_30m 10x,26
+466_30m 10x,kidney,lymphocyte,30m,30m 10x,466_30m 10x,18
+467_30m 10x,kidney,macrophage,30m,30m 10x,467_30m 10x,13
+468_30m 10x,kidney,plasma cell,30m,30m 10x,468_30m 10x,32
+469_30m 10x,kidney,podocyte,30m,30m 10x,469_30m 10x,26
+470_30m 10x,kidney,T cell,30m,30m 10x,470_30m 10x,1
+471_3m 10x,kidney,epithelial cell of proximal tubule,3m,3m 10x,471_3m 10x,26
+472_3m 10x,kidney,fenestrated cell,3m,3m 10x,472_3m 10x,0
+473_3m 10x,kidney,kidney capillary endothelial cell,3m,3m 10x,473_3m 10x,0
+474_3m 10x,kidney,kidney collecting duct principal cell,3m,3m 10x,474_3m 10x,25
+475_3m 10x,kidney,kidney cortex artery cell,3m,3m 10x,475_3m 10x,0
+476_3m 10x,kidney,kidney distal convoluted tubule epithelial cell,3m,3m 10x,476_3m 10x,25
+477_3m 10x,kidney,kidney loop of Henle ascending limb epithelial cell,3m,3m 10x,477_3m 10x,25
+478_3m 10x,kidney,kidney loop of Henle thick ascending limb epithelial cell,3m,3m 10x,478_3m 10x,25
+479_3m 10x,kidney,kidney mesangial cell,3m,3m 10x,479_3m 10x,24
+480_3m 10x,kidney,kidney proximal convoluted tubule epithelial cell,3m,3m 10x,480_3m 10x,26
+481_3m 10x,kidney,kidney proximal straight tubule epithelial cell,3m,3m 10x,481_3m 10x,26
+482_3m 10x,kidney,lymphocyte,3m,3m 10x,482_3m 10x,18
+483_3m 10x,kidney,macrophage,3m,3m 10x,483_3m 10x,13
+484_3m 10x,kidney,podocyte,3m,3m 10x,484_3m 10x,25
+485_30m 10x,large_intestine,enterocyte of epithelium of large intestine,30m,30m 10x,485_30m 10x,27
+486_30m 10x,large_intestine,epithelial cell of large intestine,30m,30m 10x,486_30m 10x,27
+487_30m 10x,large_intestine,hematopoietic stem cell,30m,30m 10x,487_30m 10x,1
+488_30m 10x,large_intestine,intestinal crypt stem cell,30m,30m 10x,488_30m 10x,27
+489_30m 10x,large_intestine,large intestine goblet cell,30m,30m 10x,489_30m 10x,27
+490_18m 10x,limb_muscle,endothelial cell,18m,18m 10x,490_18m 10x,0
+491_18m 10x,limb_muscle,macrophage,18m,18m 10x,491_18m 10x,20
+492_18m 10x,limb_muscle,mesenchymal stem cell,18m,18m 10x,492_18m 10x,5
+493_18m 10x,limb_muscle,Schwann cell,18m,18m 10x,493_18m 10x,2
+494_18m 10x,limb_muscle,skeletal muscle satellite cell,18m,18m 10x,494_18m 10x,3
+495_18m 10x,limb_muscle,smooth muscle cell,18m,18m 10x,495_18m 10x,24
+496_18m 10x,limb_muscle,T cell,18m,18m 10x,496_18m 10x,1
+497_1m 10x,limb_muscle,B cell,1m,1m 10x,497_1m 10x,8
+498_1m 10x,limb_muscle,endothelial cell,1m,1m 10x,498_1m 10x,0
+499_1m 10x,limb_muscle,macrophage,1m,1m 10x,499_1m 10x,20
+500_1m 10x,limb_muscle,mesenchymal stem cell,1m,1m 10x,500_1m 10x,5
+501_1m 10x,limb_muscle,Schwann cell,1m,1m 10x,501_1m 10x,2
+502_1m 10x,limb_muscle,skeletal muscle satellite cell,1m,1m 10x,502_1m 10x,3
+503_1m 10x,limb_muscle,smooth muscle cell,1m,1m 10x,503_1m 10x,24
+504_1m 10x,limb_muscle,T cell,1m,1m 10x,504_1m 10x,1
+505_21m 10x,limb_muscle,B cell,21m,21m 10x,505_21m 10x,8
+506_21m 10x,limb_muscle,endothelial cell,21m,21m 10x,506_21m 10x,0
+507_21m 10x,limb_muscle,macrophage,21m,21m 10x,507_21m 10x,20
+508_21m 10x,limb_muscle,mesenchymal stem cell,21m,21m 10x,508_21m 10x,5
+509_21m 10x,limb_muscle,skeletal muscle satellite cell,21m,21m 10x,509_21m 10x,3
+510_21m 10x,limb_muscle,smooth muscle cell,21m,21m 10x,510_21m 10x,24
+511_21m 10x,limb_muscle,T cell,21m,21m 10x,511_21m 10x,1
+512_24m 10x,limb_muscle,B cell,24m,24m 10x,512_24m 10x,8
+513_24m 10x,limb_muscle,endothelial cell,24m,24m 10x,513_24m 10x,0
+514_24m 10x,limb_muscle,macrophage,24m,24m 10x,514_24m 10x,20
+515_24m 10x,limb_muscle,mesenchymal stem cell,24m,24m 10x,515_24m 10x,5
+516_24m 10x,limb_muscle,Schwann cell,24m,24m 10x,516_24m 10x,2
+517_24m 10x,limb_muscle,skeletal muscle cell,24m,24m 10x,517_24m 10x,3
+518_24m 10x,limb_muscle,skeletal muscle satellite cell,24m,24m 10x,518_24m 10x,3
+519_24m 10x,limb_muscle,smooth muscle cell,24m,24m 10x,519_24m 10x,24
+520_24m 10x,limb_muscle,T cell,24m,24m 10x,520_24m 10x,1
+521_30m 10x,limb_muscle,B cell,30m,30m 10x,521_30m 10x,8
+522_30m 10x,limb_muscle,endothelial cell,30m,30m 10x,522_30m 10x,0
+523_30m 10x,limb_muscle,macrophage,30m,30m 10x,523_30m 10x,20
+524_30m 10x,limb_muscle,mesenchymal stem cell,30m,30m 10x,524_30m 10x,5
+525_30m 10x,limb_muscle,Schwann cell,30m,30m 10x,525_30m 10x,2
+526_30m 10x,limb_muscle,skeletal muscle cell,30m,30m 10x,526_30m 10x,3
+527_30m 10x,limb_muscle,skeletal muscle satellite cell,30m,30m 10x,527_30m 10x,3
+528_30m 10x,limb_muscle,smooth muscle cell,30m,30m 10x,528_30m 10x,24
+529_30m 10x,limb_muscle,T cell,30m,30m 10x,529_30m 10x,1
+530_3m 10x,limb_muscle,B cell,3m,3m 10x,530_3m 10x,8
+531_3m 10x,limb_muscle,endothelial cell,3m,3m 10x,531_3m 10x,0
+532_3m 10x,limb_muscle,macrophage,3m,3m 10x,532_3m 10x,20
+533_3m 10x,limb_muscle,mesenchymal stem cell,3m,3m 10x,533_3m 10x,5
+534_3m 10x,limb_muscle,skeletal muscle satellite cell,3m,3m 10x,534_3m 10x,3
+535_3m 10x,limb_muscle,smooth muscle cell,3m,3m 10x,535_3m 10x,24
+536_3m 10x,limb_muscle,T cell,3m,3m 10x,536_3m 10x,1
+537_18m 10x,liver,hepatocyte,18m,18m 10x,537_18m 10x,3
+538_18m 10x,liver,Kupffer cell,18m,18m 10x,538_18m 10x,13
+539_18m 10x,liver,myeloid leukocyte,18m,18m 10x,539_18m 10x,18
+540_18m 10x,liver,NK cell,18m,18m 10x,540_18m 10x,1
+541_1m 10x,liver,endothelial cell of hepatic sinusoid,1m,1m 10x,541_1m 10x,12
+542_1m 10x,liver,hepatocyte,1m,1m 10x,542_1m 10x,3
+543_1m 10x,liver,Kupffer cell,1m,1m 10x,543_1m 10x,13
+544_1m 10x,liver,myeloid leukocyte,1m,1m 10x,544_1m 10x,18
+545_1m 10x,liver,NK cell,1m,1m 10x,545_1m 10x,1
+546_21m 10x,liver,B cell,21m,21m 10x,546_21m 10x,3
+547_21m 10x,liver,hepatocyte,21m,21m 10x,547_21m 10x,3
+548_21m 10x,liver,NK cell,21m,21m 10x,548_21m 10x,1
+549_24m 10x,liver,hepatocyte,24m,24m 10x,549_24m 10x,3
+550_30m 10x,liver,B cell,30m,30m 10x,550_30m 10x,10
+551_30m 10x,liver,endothelial cell of hepatic sinusoid,30m,30m 10x,551_30m 10x,0
+552_30m 10x,liver,Kupffer cell,30m,30m 10x,552_30m 10x,13
+553_30m 10x,liver,myeloid leukocyte,30m,30m 10x,553_30m 10x,18
+554_30m 10x,liver,NK cell,30m,30m 10x,554_30m 10x,1
+555_3m 10x,liver,hepatocyte,3m,3m 10x,555_3m 10x,3
+556_18m 10x,lung,adventitial cell,18m,18m 10x,556_18m 10x,5
+557_18m 10x,lung,alveolar macrophage,18m,18m 10x,557_18m 10x,20
+558_18m 10x,lung,B cell,18m,18m 10x,558_18m 10x,8
+559_18m 10x,lung,bronchial smooth muscle cell,18m,18m 10x,559_18m 10x,0
+560_18m 10x,lung,CD4-positive  alpha-beta T cell,18m,18m 10x,560_18m 10x,1
+561_18m 10x,lung,CD8-positive  alpha-beta T cell,18m,18m 10x,561_18m 10x,1
+562_18m 10x,lung,classical monocyte,18m,18m 10x,562_18m 10x,22
+563_18m 10x,lung,fibroblast of lung,18m,18m 10x,563_18m 10x,5
+564_18m 10x,lung,intermediate monocyte,18m,18m 10x,564_18m 10x,22
+565_18m 10x,lung,mature NK T cell,18m,18m 10x,565_18m 10x,1
+566_18m 10x,lung,myeloid dendritic cell,18m,18m 10x,566_18m 10x,18
+567_18m 10x,lung,neutrophil,18m,18m 10x,567_18m 10x,21
+568_18m 10x,lung,NK cell,18m,18m 10x,568_18m 10x,30
+569_18m 10x,lung,non-classical monocyte,18m,18m 10x,569_18m 10x,22
+570_18m 10x,lung,smooth muscle cell of the pulmonary artery,18m,18m 10x,570_18m 10x,0
+571_18m 10x,lung,T cell,18m,18m 10x,571_18m 10x,1
+572_18m 10x,lung,type II pneumocyte,18m,18m 10x,572_18m 10x,7
+573_18m 10x,lung,vein endothelial cell,18m,18m 10x,573_18m 10x,0
+574_1m 10x,lung,alveolar macrophage,1m,1m 10x,574_1m 10x,20
+575_1m 10x,lung,B cell,1m,1m 10x,575_1m 10x,8
+576_1m 10x,lung,bronchial smooth muscle cell,1m,1m 10x,576_1m 10x,0
+577_1m 10x,lung,CD4-positive  alpha-beta T cell,1m,1m 10x,577_1m 10x,1
+578_1m 10x,lung,CD8-positive  alpha-beta T cell,1m,1m 10x,578_1m 10x,1
+579_1m 10x,lung,classical monocyte,1m,1m 10x,579_1m 10x,22
+580_1m 10x,lung,fibroblast of lung,1m,1m 10x,580_1m 10x,5
+581_1m 10x,lung,intermediate monocyte,1m,1m 10x,581_1m 10x,22
+582_1m 10x,lung,myeloid dendritic cell,1m,1m 10x,582_1m 10x,18
+583_1m 10x,lung,neutrophil,1m,1m 10x,583_1m 10x,21
+584_1m 10x,lung,NK cell,1m,1m 10x,584_1m 10x,30
+585_1m 10x,lung,non-classical monocyte,1m,1m 10x,585_1m 10x,22
+586_21m 10x,lung,adventitial cell,21m,21m 10x,586_21m 10x,5
+587_21m 10x,lung,alveolar macrophage,21m,21m 10x,587_21m 10x,20
+588_21m 10x,lung,B cell,21m,21m 10x,588_21m 10x,8
+589_21m 10x,lung,basophil,21m,21m 10x,589_21m 10x,9
+590_21m 10x,lung,bronchial smooth muscle cell,21m,21m 10x,590_21m 10x,0
+591_21m 10x,lung,CD4-positive  alpha-beta T cell,21m,21m 10x,591_21m 10x,1
+592_21m 10x,lung,CD8-positive  alpha-beta T cell,21m,21m 10x,592_21m 10x,1
+593_21m 10x,lung,classical monocyte,21m,21m 10x,593_21m 10x,22
+594_21m 10x,lung,fibroblast of lung,21m,21m 10x,594_21m 10x,5
+595_21m 10x,lung,mature NK T cell,21m,21m 10x,595_21m 10x,1
+596_21m 10x,lung,myeloid dendritic cell,21m,21m 10x,596_21m 10x,18
+597_21m 10x,lung,NK cell,21m,21m 10x,597_21m 10x,30
+598_21m 10x,lung,non-classical monocyte,21m,21m 10x,598_21m 10x,22
+599_21m 10x,lung,T cell,21m,21m 10x,599_21m 10x,1
+600_21m 10x,lung,vein endothelial cell,21m,21m 10x,600_21m 10x,0
+601_30m 10x,lung,alveolar macrophage,30m,30m 10x,601_30m 10x,20
+602_30m 10x,lung,B cell,30m,30m 10x,602_30m 10x,8
+603_30m 10x,lung,basophil,30m,30m 10x,603_30m 10x,12
+604_30m 10x,lung,bronchial smooth muscle cell,30m,30m 10x,604_30m 10x,0
+605_30m 10x,lung,CD4-positive  alpha-beta T cell,30m,30m 10x,605_30m 10x,1
+606_30m 10x,lung,CD8-positive  alpha-beta T cell,30m,30m 10x,606_30m 10x,1
+607_30m 10x,lung,classical monocyte,30m,30m 10x,607_30m 10x,22
+608_30m 10x,lung,intermediate monocyte,30m,30m 10x,608_30m 10x,22
+609_30m 10x,lung,lung macrophage,30m,30m 10x,609_30m 10x,20
+610_30m 10x,lung,mature NK T cell,30m,30m 10x,610_30m 10x,1
+611_30m 10x,lung,myeloid dendritic cell,30m,30m 10x,611_30m 10x,18
+612_30m 10x,lung,NK cell,30m,30m 10x,612_30m 10x,30
+613_30m 10x,lung,non-classical monocyte,30m,30m 10x,613_30m 10x,22
+614_30m 10x,lung,regulatory T cell,30m,30m 10x,614_30m 10x,1
+615_30m 10x,lung,T cell,30m,30m 10x,615_30m 10x,1
+616_30m 10x,lung,vein endothelial cell,30m,30m 10x,616_30m 10x,0
+617_3m 10x,lung,adventitial cell,3m,3m 10x,617_3m 10x,5
+618_3m 10x,lung,alveolar macrophage,3m,3m 10x,618_3m 10x,20
+619_3m 10x,lung,B cell,3m,3m 10x,619_3m 10x,8
+620_3m 10x,lung,bronchial smooth muscle cell,3m,3m 10x,620_3m 10x,0
+621_3m 10x,lung,CD4-positive  alpha-beta T cell,3m,3m 10x,621_3m 10x,1
+622_3m 10x,lung,CD8-positive  alpha-beta T cell,3m,3m 10x,622_3m 10x,1
+623_3m 10x,lung,ciliated columnar cell of tracheobronchial tree,3m,3m 10x,623_3m 10x,7
+624_3m 10x,lung,classical monocyte,3m,3m 10x,624_3m 10x,22
+625_3m 10x,lung,fibroblast of lung,3m,3m 10x,625_3m 10x,5
+626_3m 10x,lung,myeloid dendritic cell,3m,3m 10x,626_3m 10x,18
+627_3m 10x,lung,NK cell,3m,3m 10x,627_3m 10x,30
+628_3m 10x,lung,non-classical monocyte,3m,3m 10x,628_3m 10x,22
+629_3m 10x,lung,pericyte cell,3m,3m 10x,629_3m 10x,12
+630_3m 10x,lung,pulmonary interstitial fibroblast,3m,3m 10x,630_3m 10x,4
+631_3m 10x,lung,type II pneumocyte,3m,3m 10x,631_3m 10x,7
+632_18m 10x,mammary_gland,B cell,18m,18m 10x,632_18m 10x,8
+633_18m 10x,mammary_gland,basal cell,18m,18m 10x,633_18m 10x,7
+634_18m 10x,mammary_gland,endothelial cell,18m,18m 10x,634_18m 10x,0
+635_18m 10x,mammary_gland,luminal epithelial cell of mammary gland,18m,18m 10x,635_18m 10x,7
+636_18m 10x,mammary_gland,macrophage,18m,18m 10x,636_18m 10x,20
+637_18m 10x,mammary_gland,stromal cell,18m,18m 10x,637_18m 10x,5
+638_18m 10x,mammary_gland,T cell,18m,18m 10x,638_18m 10x,1
+639_21m 10x,mammary_gland,B cell,21m,21m 10x,639_21m 10x,8
+640_21m 10x,mammary_gland,basal cell,21m,21m 10x,640_21m 10x,7
+641_21m 10x,mammary_gland,endothelial cell,21m,21m 10x,641_21m 10x,0
+642_21m 10x,mammary_gland,luminal epithelial cell of mammary gland,21m,21m 10x,642_21m 10x,7
+643_21m 10x,mammary_gland,macrophage,21m,21m 10x,643_21m 10x,20
+644_21m 10x,mammary_gland,stromal cell,21m,21m 10x,644_21m 10x,5
+645_21m 10x,mammary_gland,T cell,21m,21m 10x,645_21m 10x,1
+646_3m 10x,mammary_gland,B cell,3m,3m 10x,646_3m 10x,8
+647_3m 10x,mammary_gland,basal cell,3m,3m 10x,647_3m 10x,7
+648_3m 10x,mammary_gland,endothelial cell,3m,3m 10x,648_3m 10x,0
+649_3m 10x,mammary_gland,luminal epithelial cell of mammary gland,3m,3m 10x,649_3m 10x,7
+650_3m 10x,mammary_gland,macrophage,3m,3m 10x,650_3m 10x,20
+651_3m 10x,mammary_gland,stromal cell,3m,3m 10x,651_3m 10x,5
+652_3m 10x,mammary_gland,T cell,3m,3m 10x,652_3m 10x,1
+653_18m 10x,marrow,erythroblast,18m,18m 10x,653_18m 10x,29
+654_18m 10x,marrow,granulocyte,18m,18m 10x,654_18m 10x,21
+655_18m 10x,marrow,granulocytopoietic cell,18m,18m 10x,655_18m 10x,9
+656_18m 10x,marrow,hematopoietic precursor cell,18m,18m 10x,656_18m 10x,3
+657_18m 10x,marrow,immature B cell,18m,18m 10x,657_18m 10x,29
+658_18m 10x,marrow,late pro-B cell,18m,18m 10x,658_18m 10x,32
+659_18m 10x,marrow,macrophage,18m,18m 10x,659_18m 10x,9
+660_18m 10x,marrow,megakaryocyte-erythroid progenitor cell,18m,18m 10x,660_18m 10x,9
+661_18m 10x,marrow,monocyte,18m,18m 10x,661_18m 10x,22
+662_18m 10x,marrow,naive B cell,18m,18m 10x,662_18m 10x,9
+663_18m 10x,marrow,naive T cell,18m,18m 10x,663_18m 10x,9
+664_18m 10x,marrow,precursor B cell,18m,18m 10x,664_18m 10x,18
+665_18m 10x,marrow,proerythroblast,18m,18m 10x,665_18m 10x,21
+666_18m 10x,marrow,promonocyte,18m,18m 10x,666_18m 10x,9
+667_1m 10x,marrow,erythroblast,1m,1m 10x,667_1m 10x,29
+668_1m 10x,marrow,granulocyte,1m,1m 10x,668_1m 10x,21
+669_1m 10x,marrow,granulocytopoietic cell,1m,1m 10x,669_1m 10x,29
+670_1m 10x,marrow,hematopoietic precursor cell,1m,1m 10x,670_1m 10x,3
+671_1m 10x,marrow,immature B cell,1m,1m 10x,671_1m 10x,29
+672_1m 10x,marrow,macrophage,1m,1m 10x,672_1m 10x,9
+673_1m 10x,marrow,megakaryocyte-erythroid progenitor cell,1m,1m 10x,673_1m 10x,9
+674_1m 10x,marrow,monocyte,1m,1m 10x,674_1m 10x,22
+675_1m 10x,marrow,naive B cell,1m,1m 10x,675_1m 10x,9
+676_1m 10x,marrow,naive T cell,1m,1m 10x,676_1m 10x,9
+677_1m 10x,marrow,precursor B cell,1m,1m 10x,677_1m 10x,18
+678_1m 10x,marrow,proerythroblast,1m,1m 10x,678_1m 10x,21
+679_1m 10x,marrow,promonocyte,1m,1m 10x,679_1m 10x,9
+680_21m 10x,marrow,erythroblast,21m,21m 10x,680_21m 10x,29
+681_21m 10x,marrow,granulocyte,21m,21m 10x,681_21m 10x,21
+682_21m 10x,marrow,granulocytopoietic cell,21m,21m 10x,682_21m 10x,9
+683_21m 10x,marrow,hematopoietic precursor cell,21m,21m 10x,683_21m 10x,3
+684_21m 10x,marrow,late pro-B cell,21m,21m 10x,684_21m 10x,32
+685_21m 10x,marrow,macrophage,21m,21m 10x,685_21m 10x,9
+686_21m 10x,marrow,megakaryocyte-erythroid progenitor cell,21m,21m 10x,686_21m 10x,9
+687_21m 10x,marrow,monocyte,21m,21m 10x,687_21m 10x,22
+688_21m 10x,marrow,naive B cell,21m,21m 10x,688_21m 10x,9
+689_21m 10x,marrow,naive T cell,21m,21m 10x,689_21m 10x,9
+690_21m 10x,marrow,NK cell,21m,21m 10x,690_21m 10x,21
+691_21m 10x,marrow,precursor B cell,21m,21m 10x,691_21m 10x,18
+692_21m 10x,marrow,proerythroblast,21m,21m 10x,692_21m 10x,21
+693_21m 10x,marrow,promonocyte,21m,21m 10x,693_21m 10x,9
+694_24m 10x,marrow,erythroblast,24m,24m 10x,694_24m 10x,29
+695_24m 10x,marrow,erythroid progenitor,24m,24m 10x,695_24m 10x,8
+696_24m 10x,marrow,granulocyte,24m,24m 10x,696_24m 10x,21
+697_24m 10x,marrow,granulocytopoietic cell,24m,24m 10x,697_24m 10x,29
+698_24m 10x,marrow,hematopoietic precursor cell,24m,24m 10x,698_24m 10x,1
+699_24m 10x,marrow,immature B cell,24m,24m 10x,699_24m 10x,29
+700_24m 10x,marrow,late pro-B cell,24m,24m 10x,700_24m 10x,32
+701_24m 10x,marrow,macrophage,24m,24m 10x,701_24m 10x,9
+702_24m 10x,marrow,megakaryocyte-erythroid progenitor cell,24m,24m 10x,702_24m 10x,9
+703_24m 10x,marrow,monocyte,24m,24m 10x,703_24m 10x,22
+704_24m 10x,marrow,naive B cell,24m,24m 10x,704_24m 10x,9
+705_24m 10x,marrow,naive T cell,24m,24m 10x,705_24m 10x,9
+706_24m 10x,marrow,plasma cell,24m,24m 10x,706_24m 10x,13
+707_24m 10x,marrow,precursor B cell,24m,24m 10x,707_24m 10x,18
+708_24m 10x,marrow,proerythroblast,24m,24m 10x,708_24m 10x,21
+709_24m 10x,marrow,promonocyte,24m,24m 10x,709_24m 10x,9
+710_30m 10x,marrow,basophil,30m,30m 10x,710_30m 10x,29
+711_30m 10x,marrow,erythroblast,30m,30m 10x,711_30m 10x,29
+712_30m 10x,marrow,granulocyte,30m,30m 10x,712_30m 10x,21
+713_30m 10x,marrow,granulocytopoietic cell,30m,30m 10x,713_30m 10x,29
+714_30m 10x,marrow,hematopoietic precursor cell,30m,30m 10x,714_30m 10x,1
+715_30m 10x,marrow,immature B cell,30m,30m 10x,715_30m 10x,29
+716_30m 10x,marrow,late pro-B cell,30m,30m 10x,716_30m 10x,32
+717_30m 10x,marrow,macrophage,30m,30m 10x,717_30m 10x,9
+718_30m 10x,marrow,megakaryocyte-erythroid progenitor cell,30m,30m 10x,718_30m 10x,9
+719_30m 10x,marrow,monocyte,30m,30m 10x,719_30m 10x,22
+720_30m 10x,marrow,naive B cell,30m,30m 10x,720_30m 10x,9
+721_30m 10x,marrow,naive T cell,30m,30m 10x,721_30m 10x,9
+722_30m 10x,marrow,NK cell,30m,30m 10x,722_30m 10x,21
+723_30m 10x,marrow,plasma cell,30m,30m 10x,723_30m 10x,20
+724_30m 10x,marrow,precursor B cell,30m,30m 10x,724_30m 10x,18
+725_30m 10x,marrow,proerythroblast,30m,30m 10x,725_30m 10x,21
+726_30m 10x,marrow,promonocyte,30m,30m 10x,726_30m 10x,9
+727_3m 10x,marrow,erythroblast,3m,3m 10x,727_3m 10x,29
+728_3m 10x,marrow,granulocyte,3m,3m 10x,728_3m 10x,21
+729_3m 10x,marrow,granulocytopoietic cell,3m,3m 10x,729_3m 10x,9
+730_3m 10x,marrow,hematopoietic precursor cell,3m,3m 10x,730_3m 10x,1
+731_3m 10x,marrow,late pro-B cell,3m,3m 10x,731_3m 10x,32
+732_3m 10x,marrow,macrophage,3m,3m 10x,732_3m 10x,9
+733_3m 10x,marrow,megakaryocyte-erythroid progenitor cell,3m,3m 10x,733_3m 10x,9
+734_3m 10x,marrow,monocyte,3m,3m 10x,734_3m 10x,22
+735_3m 10x,marrow,naive B cell,3m,3m 10x,735_3m 10x,9
+736_3m 10x,marrow,naive T cell,3m,3m 10x,736_3m 10x,9
+737_3m 10x,marrow,plasma cell,3m,3m 10x,737_3m 10x,20
+738_3m 10x,marrow,precursor B cell,3m,3m 10x,738_3m 10x,18
+739_3m 10x,marrow,proerythroblast,3m,3m 10x,739_3m 10x,21
+740_3m 10x,marrow,promonocyte,3m,3m 10x,740_3m 10x,9
+741_18m 10x,pancreas,endothelial cell,18m,18m 10x,741_18m 10x,0
+742_18m 10x,pancreas,leukocyte,18m,18m 10x,742_18m 10x,13
+743_18m 10x,pancreas,pancreatic A cell,18m,18m 10x,743_18m 10x,28
+744_18m 10x,pancreas,pancreatic B cell,18m,18m 10x,744_18m 10x,28
+745_18m 10x,pancreas,pancreatic D cell,18m,18m 10x,745_18m 10x,28
+746_18m 10x,pancreas,pancreatic ductal cel,18m,18m 10x,746_18m 10x,7
+747_18m 10x,pancreas,pancreatic PP cell,18m,18m 10x,747_18m 10x,28
+748_21m 10x,pancreas,leukocyte,21m,21m 10x,748_21m 10x,8
+749_21m 10x,pancreas,pancreatic A cell,21m,21m 10x,749_21m 10x,28
+750_21m 10x,pancreas,pancreatic acinar cell,21m,21m 10x,750_21m 10x,3
+751_21m 10x,pancreas,pancreatic B cell,21m,21m 10x,751_21m 10x,28
+752_21m 10x,pancreas,pancreatic D cell,21m,21m 10x,752_21m 10x,28
+753_30m 10x,pancreas,leukocyte,30m,30m 10x,753_30m 10x,3
+754_30m 10x,pancreas,pancreatic A cell,30m,30m 10x,754_30m 10x,28
+755_30m 10x,pancreas,pancreatic acinar cell,30m,30m 10x,755_30m 10x,3
+756_30m 10x,pancreas,pancreatic B cell,30m,30m 10x,756_30m 10x,28
+757_30m 10x,pancreas,pancreatic D cell,30m,30m 10x,757_30m 10x,28
+758_30m 10x,pancreas,pancreatic ductal cel,30m,30m 10x,758_30m 10x,7
+759_18m 10x,skin,basal cell of epidermis,18m,18m 10x,759_18m 10x,23
+760_21m 10x,skin,basal cell of epidermis,21m,21m 10x,760_21m 10x,23
+761_21m 10x,skin,epidermal cell,21m,21m 10x,761_21m 10x,23
+762_21m 10x,skin,keratinocyte stem cell,21m,21m 10x,762_21m 10x,7
+763_21m 10x,skin,stem cell of epidermis,21m,21m 10x,763_21m 10x,23
+764_21m 10x,skin,T cell,21m,21m 10x,764_21m 10x,1
+765_18m 10x,spleen,B cell,18m,18m 10x,765_18m 10x,8
+766_18m 10x,spleen,macrophage,18m,18m 10x,766_18m 10x,18
+767_18m 10x,spleen,mature NK T cell,18m,18m 10x,767_18m 10x,1
+768_18m 10x,spleen,NK cell,18m,18m 10x,768_18m 10x,30
+769_18m 10x,spleen,plasma cell,18m,18m 10x,769_18m 10x,32
+770_18m 10x,spleen,proerythroblast,18m,18m 10x,770_18m 10x,22
+771_18m 10x,spleen,T cell,18m,18m 10x,771_18m 10x,1
+772_1m 10x,spleen,B cell,1m,1m 10x,772_1m 10x,8
+773_1m 10x,spleen,macrophage,1m,1m 10x,773_1m 10x,18
+774_1m 10x,spleen,mature NK T cell,1m,1m 10x,774_1m 10x,1
+775_1m 10x,spleen,NK cell,1m,1m 10x,775_1m 10x,30
+776_1m 10x,spleen,proerythroblast,1m,1m 10x,776_1m 10x,22
+777_1m 10x,spleen,T cell,1m,1m 10x,777_1m 10x,1
+778_21m 10x,spleen,B cell,21m,21m 10x,778_21m 10x,8
+779_21m 10x,spleen,granulocyte,21m,21m 10x,779_21m 10x,21
+780_21m 10x,spleen,macrophage,21m,21m 10x,780_21m 10x,18
+781_21m 10x,spleen,mature NK T cell,21m,21m 10x,781_21m 10x,1
+782_21m 10x,spleen,NK cell,21m,21m 10x,782_21m 10x,30
+783_21m 10x,spleen,plasma cell,21m,21m 10x,783_21m 10x,32
+784_21m 10x,spleen,proerythroblast,21m,21m 10x,784_21m 10x,22
+785_21m 10x,spleen,T cell,21m,21m 10x,785_21m 10x,1
+786_24m 10x,spleen,B cell,24m,24m 10x,786_24m 10x,8
+787_24m 10x,spleen,erythroblast,24m,24m 10x,787_24m 10x,14
+788_24m 10x,spleen,granulocyte,24m,24m 10x,788_24m 10x,21
+789_24m 10x,spleen,macrophage,24m,24m 10x,789_24m 10x,18
+790_24m 10x,spleen,mature NK T cell,24m,24m 10x,790_24m 10x,1
+791_24m 10x,spleen,megakaryocyte-erythroid progenitor cell,24m,24m 10x,791_24m 10x,29
+792_24m 10x,spleen,NK cell,24m,24m 10x,792_24m 10x,30
+793_24m 10x,spleen,plasma cell,24m,24m 10x,793_24m 10x,32
+794_24m 10x,spleen,proerythroblast,24m,24m 10x,794_24m 10x,22
+795_24m 10x,spleen,T cell,24m,24m 10x,795_24m 10x,1
+796_30m 10x,spleen,B cell,30m,30m 10x,796_30m 10x,8
+797_30m 10x,spleen,erythroblast,30m,30m 10x,797_30m 10x,14
+798_30m 10x,spleen,granulocyte,30m,30m 10x,798_30m 10x,21
+799_30m 10x,spleen,macrophage,30m,30m 10x,799_30m 10x,18
+800_30m 10x,spleen,macrophage dendritic cell progenitor,30m,30m 10x,800_30m 10x,18
+801_30m 10x,spleen,mature NK T cell,30m,30m 10x,801_30m 10x,1
+802_30m 10x,spleen,megakaryocyte-erythroid progenitor cell,30m,30m 10x,802_30m 10x,29
+803_30m 10x,spleen,NK cell,30m,30m 10x,803_30m 10x,30
+804_30m 10x,spleen,plasma cell,30m,30m 10x,804_30m 10x,32
+805_30m 10x,spleen,proerythroblast,30m,30m 10x,805_30m 10x,9
+806_30m 10x,spleen,T cell,30m,30m 10x,806_30m 10x,1
+807_3m 10x,spleen,B cell,3m,3m 10x,807_3m 10x,8
+808_3m 10x,spleen,macrophage,3m,3m 10x,808_3m 10x,18
+809_3m 10x,spleen,macrophage dendritic cell progenitor,3m,3m 10x,809_3m 10x,18
+810_3m 10x,spleen,mature NK T cell,3m,3m 10x,810_3m 10x,1
+811_3m 10x,spleen,NK cell,3m,3m 10x,811_3m 10x,30
+812_3m 10x,spleen,proerythroblast,3m,3m 10x,812_3m 10x,22
+813_3m 10x,spleen,T cell,3m,3m 10x,813_3m 10x,1
+814_18m 10x,thymus,DN3 thymocyte,18m,18m 10x,814_18m 10x,31
+815_18m 10x,thymus,DN4 thymocyte,18m,18m 10x,815_18m 10x,1
+816_18m 10x,thymus,double negative T cell,18m,18m 10x,816_18m 10x,1
+817_18m 10x,thymus,immature T cell,18m,18m 10x,817_18m 10x,31
+818_18m 10x,thymus,professional antigen presenting cell,18m,18m 10x,818_18m 10x,8
+819_18m 10x,thymus,thymocyte,18m,18m 10x,819_18m 10x,9
+820_21m 10x,thymus,DN3 thymocyte,21m,21m 10x,820_21m 10x,31
+821_21m 10x,thymus,DN4 thymocyte,21m,21m 10x,821_21m 10x,1
+822_21m 10x,thymus,double negative T cell,21m,21m 10x,822_21m 10x,1
+823_21m 10x,thymus,immature T cell,21m,21m 10x,823_21m 10x,31
+824_21m 10x,thymus,professional antigen presenting cell,21m,21m 10x,824_21m 10x,8
+825_21m 10x,thymus,thymocyte,21m,21m 10x,825_21m 10x,9
+826_24m 10x,thymus,DN4 thymocyte,24m,24m 10x,826_24m 10x,1
+827_24m 10x,thymus,professional antigen presenting cell,24m,24m 10x,827_24m 10x,8
+828_3m 10x,thymus,DN3 thymocyte,3m,3m 10x,828_3m 10x,31
+829_3m 10x,thymus,DN4 thymocyte,3m,3m 10x,829_3m 10x,1
+830_3m 10x,thymus,double negative T cell,3m,3m 10x,830_3m 10x,1
+831_3m 10x,thymus,immature T cell,3m,3m 10x,831_3m 10x,31
+832_3m 10x,thymus,thymocyte,3m,3m 10x,832_3m 10x,9
+833_18m 10x,tongue,basal cell of epidermis,18m,18m 10x,833_18m 10x,23
+834_18m 10x,tongue,keratinocyte,18m,18m 10x,834_18m 10x,23
+835_1m 10x,tongue,basal cell of epidermis,1m,1m 10x,835_1m 10x,23
+836_1m 10x,tongue,keratinocyte,1m,1m 10x,836_1m 10x,23
+837_24m 10x,tongue,basal cell of epidermis,24m,24m 10x,837_24m 10x,23
+838_24m 10x,tongue,keratinocyte,24m,24m 10x,838_24m 10x,23
+839_24m 10x,tongue,Langerhans cell,24m,24m 10x,839_24m 10x,20
+840_3m 10x,tongue,basal cell of epidermis,3m,3m 10x,840_3m 10x,23
+841_3m 10x,tongue,keratinocyte,3m,3m 10x,841_3m 10x,23
+842_3m 10x,tongue,Langerhans cell,3m,3m 10x,842_3m 10x,20
+843_3m 10x,trachea,basal epithelial cell of tracheobronchial tree,3m,3m 10x,843_3m 10x,7
+844_3m 10x,trachea,blood cell,3m,3m 10x,844_3m 10x,20
+845_3m 10x,trachea,chondrocyte,3m,3m 10x,845_3m 10x,4
+846_3m 10x,trachea,endothelial cell,3m,3m 10x,846_3m 10x,0
+847_3m 10x,trachea,epithelial cell,3m,3m 10x,847_3m 10x,7
+848_3m 10x,trachea,fibroblast,3m,3m 10x,848_3m 10x,4
+849_3m 10x,trachea,granulocyte,3m,3m 10x,849_3m 10x,20
+850_3m 10x,trachea,macrophage,3m,3m 10x,850_3m 10x,20
+851_3m 10x,trachea,mesenchymal cell,3m,3m 10x,851_3m 10x,4
+852_3m 10x,trachea,mesenchymal progenitor cell,3m,3m 10x,852_3m 10x,5
+853_3m 10x,trachea,neuroendocrine cell,3m,3m 10x,853_3m 10x,24
+854_3m 10x,trachea,smooth muscle cell of trachea,3m,3m 10x,854_3m 10x,24
+855_Forelimb_E10.5_15.0,forelimb,Early erythrocyte ,E10.5,Forelimb_E10.5_15.0,855_Forelimb_E10.5_15.0,14
+856_Forelimb_E10.5_15.0,forelimb,Endothelial ,E10.5,Forelimb_E10.5_15.0,856_Forelimb_E10.5_15.0,12
+857_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E10.5,Forelimb_E10.5_15.0,857_Forelimb_E10.5_15.0,7
+858_Forelimb_E10.5_15.0,forelimb,Mesenchymal 1 ,E10.5,Forelimb_E10.5_15.0,858_Forelimb_E10.5_15.0,2
+859_Forelimb_E10.5_15.0,forelimb,Muscle 1 ,E10.5,Forelimb_E10.5_15.0,859_Forelimb_E10.5_15.0,2
+860_Forelimb_E10.5_15.0,forelimb,Stressed mesenchymal ,E10.5,Forelimb_E10.5_15.0,860_Forelimb_E10.5_15.0,11
+861_Forelimb_E10.5_15.0,forelimb,Early erythrocyte ,E11,Forelimb_E10.5_15.0,861_Forelimb_E10.5_15.0,14
+862_Forelimb_E10.5_15.0,forelimb,Endothelial ,E11,Forelimb_E10.5_15.0,862_Forelimb_E10.5_15.0,12
+863_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E11,Forelimb_E10.5_15.0,863_Forelimb_E10.5_15.0,7
+864_Forelimb_E10.5_15.0,forelimb,Macrophage ,E11,Forelimb_E10.5_15.0,864_Forelimb_E10.5_15.0,12
+865_Forelimb_E10.5_15.0,forelimb,Mesenchymal 1 ,E11,Forelimb_E10.5_15.0,865_Forelimb_E10.5_15.0,2
+866_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E11,Forelimb_E10.5_15.0,866_Forelimb_E10.5_15.0,2
+867_Forelimb_E10.5_15.0,forelimb,Muscle 1 ,E11,Forelimb_E10.5_15.0,867_Forelimb_E10.5_15.0,2
+868_Forelimb_E10.5_15.0,forelimb,Chondrocyte ,E12,Forelimb_E10.5_15.0,868_Forelimb_E10.5_15.0,4
+869_Forelimb_E10.5_15.0,forelimb,Early erythrocyte ,E12,Forelimb_E10.5_15.0,869_Forelimb_E10.5_15.0,14
+870_Forelimb_E10.5_15.0,forelimb,Endothelial ,E12,Forelimb_E10.5_15.0,870_Forelimb_E10.5_15.0,12
+871_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E12,Forelimb_E10.5_15.0,871_Forelimb_E10.5_15.0,7
+872_Forelimb_E10.5_15.0,forelimb,Mesenchymal 1 ,E12,Forelimb_E10.5_15.0,872_Forelimb_E10.5_15.0,4
+873_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E12,Forelimb_E10.5_15.0,873_Forelimb_E10.5_15.0,2
+874_Forelimb_E10.5_15.0,forelimb,Muscle 1 ,E12,Forelimb_E10.5_15.0,874_Forelimb_E10.5_15.0,3
+875_Forelimb_E10.5_15.0,forelimb,Muscle 2 ,E12,Forelimb_E10.5_15.0,875_Forelimb_E10.5_15.0,3
+876_Forelimb_E10.5_15.0,forelimb,Muscle 3 ,E12,Forelimb_E10.5_15.0,876_Forelimb_E10.5_15.0,3
+877_Forelimb_E10.5_15.0,forelimb,Perichondrial,E12,Forelimb_E10.5_15.0,877_Forelimb_E10.5_15.0,4
+878_Forelimb_E10.5_15.0,forelimb,Chondrocyte ,E13,Forelimb_E10.5_15.0,878_Forelimb_E10.5_15.0,4
+879_Forelimb_E10.5_15.0,forelimb,Col1a1+ muscle 4 ,E13,Forelimb_E10.5_15.0,879_Forelimb_E10.5_15.0,3
+880_Forelimb_E10.5_15.0,forelimb,Early erythrocyte ,E13,Forelimb_E10.5_15.0,880_Forelimb_E10.5_15.0,14
+881_Forelimb_E10.5_15.0,forelimb,Endothelial ,E13,Forelimb_E10.5_15.0,881_Forelimb_E10.5_15.0,12
+882_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E13,Forelimb_E10.5_15.0,882_Forelimb_E10.5_15.0,7
+883_Forelimb_E10.5_15.0,forelimb,Epithelial 2 ,E13,Forelimb_E10.5_15.0,883_Forelimb_E10.5_15.0,7
+884_Forelimb_E10.5_15.0,forelimb,Fibroblast ,E13,Forelimb_E10.5_15.0,884_Forelimb_E10.5_15.0,4
+885_Forelimb_E10.5_15.0,forelimb,Ihh+ chondrocyte ,E13,Forelimb_E10.5_15.0,885_Forelimb_E10.5_15.0,4
+886_Forelimb_E10.5_15.0,forelimb,Macrophage ,E13,Forelimb_E10.5_15.0,886_Forelimb_E10.5_15.0,12
+887_Forelimb_E10.5_15.0,forelimb,Mesenchymal 1 ,E13,Forelimb_E10.5_15.0,887_Forelimb_E10.5_15.0,4
+888_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E13,Forelimb_E10.5_15.0,888_Forelimb_E10.5_15.0,4
+889_Forelimb_E10.5_15.0,forelimb,Muscle 2 ,E13,Forelimb_E10.5_15.0,889_Forelimb_E10.5_15.0,10
+890_Forelimb_E10.5_15.0,forelimb,Muscle 3 ,E13,Forelimb_E10.5_15.0,890_Forelimb_E10.5_15.0,3
+891_Forelimb_E10.5_15.0,forelimb,Muscle 4 ,E13,Forelimb_E10.5_15.0,891_Forelimb_E10.5_15.0,3
+892_Forelimb_E10.5_15.0,forelimb,Neural crest ,E13,Forelimb_E10.5_15.0,892_Forelimb_E10.5_15.0,10
+893_Forelimb_E10.5_15.0,forelimb,Perichondrial,E13,Forelimb_E10.5_15.0,893_Forelimb_E10.5_15.0,4
+894_Forelimb_E10.5_15.0,forelimb,Chondrocyte ,E13.5,Forelimb_E10.5_15.0,894_Forelimb_E10.5_15.0,4
+895_Forelimb_E10.5_15.0,forelimb,Endothelial ,E13.5,Forelimb_E10.5_15.0,895_Forelimb_E10.5_15.0,12
+896_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E13.5,Forelimb_E10.5_15.0,896_Forelimb_E10.5_15.0,7
+897_Forelimb_E10.5_15.0,forelimb,Epithelial 2 ,E13.5,Forelimb_E10.5_15.0,897_Forelimb_E10.5_15.0,7
+898_Forelimb_E10.5_15.0,forelimb,Fibroblast ,E13.5,Forelimb_E10.5_15.0,898_Forelimb_E10.5_15.0,4
+899_Forelimb_E10.5_15.0,forelimb,Foxp1+ perichondrial ,E13.5,Forelimb_E10.5_15.0,899_Forelimb_E10.5_15.0,4
+900_Forelimb_E10.5_15.0,forelimb,Ihh+ chondrocyte ,E13.5,Forelimb_E10.5_15.0,900_Forelimb_E10.5_15.0,4
+901_Forelimb_E10.5_15.0,forelimb,Macrophage ,E13.5,Forelimb_E10.5_15.0,901_Forelimb_E10.5_15.0,12
+902_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E13.5,Forelimb_E10.5_15.0,902_Forelimb_E10.5_15.0,4
+903_Forelimb_E10.5_15.0,forelimb,Muscle 2 ,E13.5,Forelimb_E10.5_15.0,903_Forelimb_E10.5_15.0,10
+904_Forelimb_E10.5_15.0,forelimb,Muscle 3 ,E13.5,Forelimb_E10.5_15.0,904_Forelimb_E10.5_15.0,3
+905_Forelimb_E10.5_15.0,forelimb,Muscle 4 ,E13.5,Forelimb_E10.5_15.0,905_Forelimb_E10.5_15.0,3
+906_Forelimb_E10.5_15.0,forelimb,Neural crest ,E13.5,Forelimb_E10.5_15.0,906_Forelimb_E10.5_15.0,10
+907_Forelimb_E10.5_15.0,forelimb,Perichondrial,E13.5,Forelimb_E10.5_15.0,907_Forelimb_E10.5_15.0,4
+908_Forelimb_E10.5_15.0,forelimb,Chondrocyte ,E14,Forelimb_E10.5_15.0,908_Forelimb_E10.5_15.0,4
+909_Forelimb_E10.5_15.0,forelimb,Col1a1+ muscle 4 ,E14,Forelimb_E10.5_15.0,909_Forelimb_E10.5_15.0,4
+910_Forelimb_E10.5_15.0,forelimb,Endothelial ,E14,Forelimb_E10.5_15.0,910_Forelimb_E10.5_15.0,12
+911_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E14,Forelimb_E10.5_15.0,911_Forelimb_E10.5_15.0,7
+912_Forelimb_E10.5_15.0,forelimb,Epithelial 2 ,E14,Forelimb_E10.5_15.0,912_Forelimb_E10.5_15.0,7
+913_Forelimb_E10.5_15.0,forelimb,Fibroblast ,E14,Forelimb_E10.5_15.0,913_Forelimb_E10.5_15.0,4
+914_Forelimb_E10.5_15.0,forelimb,Foxp1+ perichondrial ,E14,Forelimb_E10.5_15.0,914_Forelimb_E10.5_15.0,4
+915_Forelimb_E10.5_15.0,forelimb,Ihh+ chondrocyte ,E14,Forelimb_E10.5_15.0,915_Forelimb_E10.5_15.0,4
+916_Forelimb_E10.5_15.0,forelimb,Late erythrocyte ,E14,Forelimb_E10.5_15.0,916_Forelimb_E10.5_15.0,4
+917_Forelimb_E10.5_15.0,forelimb,Macrophage ,E14,Forelimb_E10.5_15.0,917_Forelimb_E10.5_15.0,12
+918_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E14,Forelimb_E10.5_15.0,918_Forelimb_E10.5_15.0,4
+919_Forelimb_E10.5_15.0,forelimb,Muscle 2 ,E14,Forelimb_E10.5_15.0,919_Forelimb_E10.5_15.0,10
+920_Forelimb_E10.5_15.0,forelimb,Muscle 3 ,E14,Forelimb_E10.5_15.0,920_Forelimb_E10.5_15.0,3
+921_Forelimb_E10.5_15.0,forelimb,Muscle 4 ,E14,Forelimb_E10.5_15.0,921_Forelimb_E10.5_15.0,3
+922_Forelimb_E10.5_15.0,forelimb,Neural crest ,E14,Forelimb_E10.5_15.0,922_Forelimb_E10.5_15.0,10
+923_Forelimb_E10.5_15.0,forelimb,Perichondrial,E14,Forelimb_E10.5_15.0,923_Forelimb_E10.5_15.0,4
+924_Forelimb_E10.5_15.0,forelimb,Tenocyte ,E14,Forelimb_E10.5_15.0,924_Forelimb_E10.5_15.0,4
+925_Forelimb_E10.5_15.0,forelimb,Chondrocyte ,E15,Forelimb_E10.5_15.0,925_Forelimb_E10.5_15.0,4
+926_Forelimb_E10.5_15.0,forelimb,Col1a1+ muscle 4 ,E15,Forelimb_E10.5_15.0,926_Forelimb_E10.5_15.0,4
+927_Forelimb_E10.5_15.0,forelimb,EMP ,E15,Forelimb_E10.5_15.0,927_Forelimb_E10.5_15.0,12
+928_Forelimb_E10.5_15.0,forelimb,Endothelial ,E15,Forelimb_E10.5_15.0,928_Forelimb_E10.5_15.0,12
+929_Forelimb_E10.5_15.0,forelimb,Epithelial 1 ,E15,Forelimb_E10.5_15.0,929_Forelimb_E10.5_15.0,7
+930_Forelimb_E10.5_15.0,forelimb,Epithelial 2 ,E15,Forelimb_E10.5_15.0,930_Forelimb_E10.5_15.0,7
+931_Forelimb_E10.5_15.0,forelimb,Fibroblast ,E15,Forelimb_E10.5_15.0,931_Forelimb_E10.5_15.0,4
+932_Forelimb_E10.5_15.0,forelimb,Foxp1+ perichondrial ,E15,Forelimb_E10.5_15.0,932_Forelimb_E10.5_15.0,4
+933_Forelimb_E10.5_15.0,forelimb,Ihh+ chondrocyte ,E15,Forelimb_E10.5_15.0,933_Forelimb_E10.5_15.0,4
+934_Forelimb_E10.5_15.0,forelimb,Late erythrocyte ,E15,Forelimb_E10.5_15.0,934_Forelimb_E10.5_15.0,4
+935_Forelimb_E10.5_15.0,forelimb,Macrophage ,E15,Forelimb_E10.5_15.0,935_Forelimb_E10.5_15.0,12
+936_Forelimb_E10.5_15.0,forelimb,Mesenchymal 2 ,E15,Forelimb_E10.5_15.0,936_Forelimb_E10.5_15.0,4
+937_Forelimb_E10.5_15.0,forelimb,Muscle 2 ,E15,Forelimb_E10.5_15.0,937_Forelimb_E10.5_15.0,10
+938_Forelimb_E10.5_15.0,forelimb,Muscle 3 ,E15,Forelimb_E10.5_15.0,938_Forelimb_E10.5_15.0,3
+939_Forelimb_E10.5_15.0,forelimb,Muscle 4 ,E15,Forelimb_E10.5_15.0,939_Forelimb_E10.5_15.0,3
+940_Forelimb_E10.5_15.0,forelimb,Neural crest ,E15,Forelimb_E10.5_15.0,940_Forelimb_E10.5_15.0,10
+941_Forelimb_E10.5_15.0,forelimb,Osteoblast ,E15,Forelimb_E10.5_15.0,941_Forelimb_E10.5_15.0,4
+942_Forelimb_E10.5_15.0,forelimb,Perichondrial,E15,Forelimb_E10.5_15.0,942_Forelimb_E10.5_15.0,4
+943_Forelimb_E10.5_15.0,forelimb,Smooth muscle ,E15,Forelimb_E10.5_15.0,943_Forelimb_E10.5_15.0,12
+944_Forelimb_E10.5_15.0,forelimb,Tenocyte ,E15,Forelimb_E10.5_15.0,944_Forelimb_E10.5_15.0,4
+945_E9.5_11.5_Tang,somite,MC,E9.5-11.5,E9.5_11.5_Tang,945_E9.5_11.5_Tang,11
+946_E9.5_11.5_Tang,lung,MC,E9.5-11.5,E9.5_11.5_Tang,946_E9.5_11.5_Tang,4
+947_E9.5_11.5_Tang,skin,MC,E9.5-11.5,E9.5_11.5_Tang,947_E9.5_11.5_Tang,4
+948_E9.5_11.5_Tang,hindbrain,NC,E9.5-11.5,E9.5_11.5_Tang,948_E9.5_11.5_Tang,2
+949_E9.5_11.5_Tang,liver,HC,E9.5-11.5,E9.5_11.5_Tang,949_E9.5_11.5_Tang,14
+950_E9.5_11.5_Tang,hindbrain,NC,E9.5-11.5,E9.5_11.5_Tang,950_E9.5_11.5_Tang,2
+951_E9.5_11.5_Tang,heart,MC,E9.5-11.5,E9.5_11.5_Tang,951_E9.5_11.5_Tang,3
+952_E9.5_11.5_Tang,skin,EC,E9.5-11.5,E9.5_11.5_Tang,952_E9.5_11.5_Tang,15
+953_E9.5_11.5_Tang,intestine,MC,E9.5-11.5,E9.5_11.5_Tang,953_E9.5_11.5_Tang,4
+954_E9.5_11.5_Tang,liver,HC,E9.5-11.5,E9.5_11.5_Tang,954_E9.5_11.5_Tang,14
+955_E9.5_11.5_Tang,forebrain,NC,E9.5-11.5,E9.5_11.5_Tang,955_E9.5_11.5_Tang,2
+956_E9.5_11.5_Tang,forebrain,NC,E9.5-11.5,E9.5_11.5_Tang,956_E9.5_11.5_Tang,2
+957_E9.5_11.5_Tang,lung,EC,E9.5-11.5,E9.5_11.5_Tang,957_E9.5_11.5_Tang,7
+958_E9.5_11.5_Tang,intestine,EC,E9.5-11.5,E9.5_11.5_Tang,958_E9.5_11.5_Tang,7
+959_E9.5_11.5_Tang,heart,MC,E9.5-11.5,E9.5_11.5_Tang,959_E9.5_11.5_Tang,19
+960_E9.5_11.5_Tang,heart,MC,E9.5-11.5,E9.5_11.5_Tang,960_E9.5_11.5_Tang,12
+961_E9.5_11.5_Tang,liver,MC,E9.5-11.5,E9.5_11.5_Tang,961_E9.5_11.5_Tang,19
+962_E9.5_11.5_Tang,intestine,EC,E9.5-11.5,E9.5_11.5_Tang,962_E9.5_11.5_Tang,15
+963_E9.5_11.5_Tang,liver,MC,E9.5-11.5,E9.5_11.5_Tang,963_E9.5_11.5_Tang,19
+964_E9.5_11.5_Tang,forebrain,NC,E9.5-11.5,E9.5_11.5_Tang,964_E9.5_11.5_Tang,2
+965_E9.5_11.5_Tang,liver,EC,E9.5-11.5,E9.5_11.5_Tang,965_E9.5_11.5_Tang,16
+966_E9.5_11.5_Tang,somite,MC,E9.5-11.5,E9.5_11.5_Tang,966_E9.5_11.5_Tang,11
+967_E9.5_11.5_Tang,hindbrain,HC,E9.5-11.5,E9.5_11.5_Tang,967_E9.5_11.5_Tang,14
+968_E9.5_11.5_Tang,heart,MC,E9.5-11.5,E9.5_11.5_Tang,968_E9.5_11.5_Tang,19
+969_E9.5_11.5_Tang,lung,MC,E9.5-11.5,E9.5_11.5_Tang,969_E9.5_11.5_Tang,2
+970_E9.5_11.5_Tang,somite,MC,E9.5-11.5,E9.5_11.5_Tang,970_E9.5_11.5_Tang,3
+971_E9.5_11.5_Tang,liver,HC,E9.5-11.5,E9.5_11.5_Tang,971_E9.5_11.5_Tang,14
+972_E9.5_11.5_Tang,lung,MC,E9.5-11.5,E9.5_11.5_Tang,972_E9.5_11.5_Tang,4
+973_FACS 18m,brain_myeloid,microglial cell,18m,FACS 18m,973_FACS 18m,13
+974_FACS 18m,brain_non-myeloid,endothelial cell,18m,FACS 18m,974_FACS 18m,0
+975_FACS 18m,heart,endothelial cell of coronary artery,18m,FACS 18m,975_FACS 18m,0
+976_FACS 18m,mat,mesenchymal stem cell of adipose,18m,FACS 18m,976_FACS 18m,5
+977_FACS 18m,brain_myeloid,microglial cell,18m,FACS 18m,977_FACS 18m,13
+978_FACS 18m,marrow,naive B cell,18m,FACS 18m,978_FACS 18m,8
+979_FACS 18m,brain_myeloid,microglial cell,18m,FACS 18m,979_FACS 18m,13
+980_FACS 18m,lung,bronchial smooth muscle cell,18m,FACS 18m,980_FACS 18m,0
+981_FACS 18m,heart,fibroblast of cardiac tissue,18m,FACS 18m,981_FACS 18m,5
+982_FACS 18m,marrow,mature alpha-beta T cell,18m,FACS 18m,982_FACS 18m,1
+983_FACS 18m,thymus,DN4 thymocyte,18m,FACS 18m,983_FACS 18m,1
+984_FACS 18m,spleen,B cell,18m,FACS 18m,984_FACS 18m,8
+985_FACS 18m,skin,bulge keratinocyte,18m,FACS 18m,985_FACS 18m,7
+986_FACS 18m,limb_muscle,skeletal muscle satellite cell,18m,FACS 18m,986_FACS 18m,3
+987_FACS 18m,brain_myeloid,microglial cell,18m,FACS 18m,987_FACS 18m,13
+988_FACS 18m,marrow,granulocyte,18m,FACS 18m,988_FACS 18m,21
+989_FACS 18m,large_intestine,enterocyte of epithelium of large intestine,18m,FACS 18m,989_FACS 18m,27
+990_FACS 18m,tongue,basal cell of epidermis,18m,FACS 18m,990_FACS 18m,23
+991_FACS 18m,marrow,naive B cell,18m,FACS 18m,991_FACS 18m,8
+992_FACS 18m,skin,basal cell of epidermis,18m,FACS 18m,992_FACS 18m,23
+993_FACS 18m,large_intestine,intestinal crypt stem cell,18m,FACS 18m,993_FACS 18m,27
+994_FACS 18m,bat,B cell,18m,FACS 18m,994_FACS 18m,8
+995_FACS 18m,marrow,hematopoietic stem cell,18m,FACS 18m,995_FACS 18m,9
+996_FACS 18m,brain_non-myeloid,oligodendrocyte,18m,FACS 18m,996_FACS 18m,2
+997_FACS 18m,lung,myeloid dendritic cell,18m,FACS 18m,997_FACS 18m,18
+998_FACS 18m,large_intestine,large intestine goblet cell,18m,FACS 18m,998_FACS 18m,27
+999_FACS 18m,marrow,promonocyte,18m,FACS 18m,999_FACS 18m,22
+1000_FACS 18m,limb_muscle,mesenchymal stem cell,18m,FACS 18m,1000_FACS 18m,5
+1001_FACS 18m,large_intestine,epithelial cell of large intestine,18m,FACS 18m,1001_FACS 18m,7
+1002_FACS 18m,bladder,bladder urothelial cell,18m,FACS 18m,1002_FACS 18m,7
+1003_FACS 18m,heart,monocyte,18m,FACS 18m,1003_FACS 18m,13
+1004_FACS 18m,thymus,thymocyte,18m,FACS 18m,1004_FACS 18m,31
+1005_FACS 18m,marrow,precursor B cell,18m,FACS 18m,1005_FACS 18m,8
+1006_FACS 18m,large_intestine,epithelial cell of large intestine,18m,FACS 18m,1006_FACS 18m,27
+1007_FACS 18m,scat,mesenchymal stem cell of adipose,18m,FACS 18m,1007_FACS 18m,5
+1008_FACS 18m,marrow,granulocyte,18m,FACS 18m,1008_FACS 18m,21
+1009_FACS 18m,mammary_gland,basal cell,18m,FACS 18m,1009_FACS 18m,7
+1010_FACS 18m,pancreas,pancreatic B cell,18m,FACS 18m,1010_FACS 18m,28
+1011_FACS 18m,marrow,granulocytopoietic cell,18m,FACS 18m,1011_FACS 18m,21
+1012_FACS 18m,brain_non-myeloid,astrocyte,18m,FACS 18m,1012_FACS 18m,2
+1013_FACS 18m,liver,hepatocyte,18m,FACS 18m,1013_FACS 18m,3
+1014_FACS 18m,liver,endothelial cell of hepatic sinusoid,18m,FACS 18m,1014_FACS 18m,0
+1015_FACS 18m,kidney,kidney collecting duct epithelial cell,18m,FACS 18m,1015_FACS 18m,26
+1016_FACS 18m,thymus,DN4 thymocyte,18m,FACS 18m,1016_FACS 18m,1
+1017_FACS 18m,bat,myeloid cell,18m,FACS 18m,1017_FACS 18m,21
+1018_FACS 18m,brain_non-myeloid,brain pericyte,18m,FACS 18m,1018_FACS 18m,24
+1019_FACS 18m,bladder,bladder cell,18m,FACS 18m,1019_FACS 18m,5
+1020_FACS 18m,liver,Kupffer cell,18m,FACS 18m,1020_FACS 18m,13
+1021_FACS 18m,heart,atrial myocyte,18m,FACS 18m,1021_FACS 18m,19
+1022_FACS 18m,marrow,NK cell,18m,FACS 18m,1022_FACS 18m,30
+1023_FACS 18m,thymus,thymocyte,18m,FACS 18m,1023_FACS 18m,4
+1024_FACS 18m,tongue,keratinocyte,18m,FACS 18m,1024_FACS 18m,23
+1025_FACS 18m,scat,mesenchymal stem cell of adipose,18m,FACS 18m,1025_FACS 18m,5
+1026_FACS 18m,pancreas,pancreatic acinar cell,18m,FACS 18m,1026_FACS 18m,3
+1027_FACS 18m,marrow,hematopoietic stem cell,18m,FACS 18m,1027_FACS 18m,9
+1028_FACS 18m,lung,fibroblast of lung,18m,FACS 18m,1028_FACS 18m,5
+1029_FACS 18m,marrow,macrophage,18m,FACS 18m,1029_FACS 18m,18
+1030_FACS 18m,heart,endocardial cell,18m,FACS 18m,1030_FACS 18m,0
+1031_FACS 18m,limb_muscle,macrophage,18m,FACS 18m,1031_FACS 18m,21
+1032_FACS 18m,marrow,naive B cell,18m,FACS 18m,1032_FACS 18m,8
+1033_FACS 18m,marrow,granulocyte monocyte progenitor cell,18m,FACS 18m,1033_FACS 18m,9
+1034_FACS 18m,tongue,keratinocyte,18m,FACS 18m,1034_FACS 18m,23
+1035_FACS 18m,brain_non-myeloid,neuroepithelial cell,18m,FACS 18m,1035_FACS 18m,3
+1036_FACS 18m,thymus,thymocyte,18m,FACS 18m,1036_FACS 18m,31
+1037_FACS 18m,mammary_gland,luminal epithelial cell of mammary gland,18m,FACS 18m,1037_FACS 18m,7
+1038_FACS 18m,trachea,basal epithelial cell of tracheobronchial tree,18m,FACS 18m,1038_FACS 18m,15
+1039_FACS 18m,lung,bronchial smooth muscle cell,18m,FACS 18m,1039_FACS 18m,0
+1040_FACS 18m,kidney,kidney collecting duct principal cell,18m,FACS 18m,1040_FACS 18m,3
+1041_FACS 18m,pancreas,pancreatic A cell,18m,FACS 18m,1041_FACS 18m,28
+1042_FACS 18m,lung,respiratory basal cell,18m,FACS 18m,1042_FACS 18m,7
+1043_FACS 18m,brain_non-myeloid,oligodendrocyte precursor cell,18m,FACS 18m,1043_FACS 18m,2
+1044_FACS 18m,brain_non-myeloid,endothelial cell,18m,FACS 18m,1044_FACS 18m,3
+1045_FACS 18m,kidney,epithelial cell of proximal tubule,18m,FACS 18m,1045_FACS 18m,26
+1046_FACS 18m,pancreas,pancreatic ductal cell,18m,FACS 18m,1046_FACS 18m,7
+1047_FACS 18m,heart,valve cell,18m,FACS 18m,1047_FACS 18m,24
+1048_FACS 18m,mammary_gland,basal cell,18m,FACS 18m,1048_FACS 18m,7
+1049_FACS 18m,liver,hepatocyte,18m,FACS 18m,1049_FACS 18m,3
+1050_FACS 18m,marrow,mature alpha-beta T cell,18m,FACS 18m,1050_FACS 18m,8
+1051_FACS 24m,gat,mesenchymal stem cell of adipose,24m,FACS 24m,1051_FACS 24m,5
+1052_FACS 24m,heart,endothelial cell of coronary artery,24m,FACS 24m,1052_FACS 24m,0
+1053_FACS 24m,brain_myeloid,microglial cell,24m,FACS 24m,1053_FACS 24m,13
+1054_FACS 24m,spleen,B cell,24m,FACS 24m,1054_FACS 24m,8
+1055_FACS 24m,limb_muscle,skeletal muscle satellite cell,24m,FACS 24m,1055_FACS 24m,3
+1056_FACS 24m,marrow,hematopoietic stem cell,24m,FACS 24m,1056_FACS 24m,9
+1057_FACS 24m,brain_myeloid,microglial cell,24m,FACS 24m,1057_FACS 24m,13
+1058_FACS 24m,thymus,DN4 thymocyte,24m,FACS 24m,1058_FACS 24m,1
+1059_FACS 24m,marrow,naive B cell,24m,FACS 24m,1059_FACS 24m,8
+1060_FACS 24m,tongue,basal cell of epidermis,24m,FACS 24m,1060_FACS 24m,23
+1061_FACS 24m,brain_myeloid,microglial cell,24m,FACS 24m,1061_FACS 24m,13
+1062_FACS 24m,heart,fibroblast of cardiac tissue,24m,FACS 24m,1062_FACS 24m,5
+1063_FACS 24m,marrow,promonocyte,24m,FACS 24m,1063_FACS 24m,22
+1064_FACS 24m,brain_myeloid,microglial cell,24m,FACS 24m,1064_FACS 24m,13
+1065_FACS 24m,lung,bronchial smooth muscle cell,24m,FACS 24m,1065_FACS 24m,0
+1066_FACS 24m,marrow,naive B cell,24m,FACS 24m,1066_FACS 24m,8
+1067_FACS 24m,brain_myeloid,microglial cell,24m,FACS 24m,1067_FACS 24m,13
+1068_FACS 24m,trachea,T cell,24m,FACS 24m,1068_FACS 24m,1
+1069_FACS 24m,marrow,granulocyte,24m,FACS 24m,1069_FACS 24m,21
+1070_FACS 24m,limb_muscle,mesenchymal stem cell,24m,FACS 24m,1070_FACS 24m,5
+1071_FACS 24m,skin,bulge keratinocyte,24m,FACS 24m,1071_FACS 24m,7
+1072_FACS 24m,marrow,precursor B cell,24m,FACS 24m,1072_FACS 24m,8
+1073_FACS 24m,thymus,DN4 thymocyte,24m,FACS 24m,1073_FACS 24m,1
+1074_FACS 24m,large_intestine,intestinal crypt stem cell,24m,FACS 24m,1074_FACS 24m,27
+1075_FACS 24m,lung,myeloid dendritic cell,24m,FACS 24m,1075_FACS 24m,18
+1076_FACS 24m,tongue,keratinocyte,24m,FACS 24m,1076_FACS 24m,23
+1077_FACS 24m,bladder,bladder urothelial cell,24m,FACS 24m,1077_FACS 24m,7
+1078_FACS 24m,marrow,granulocyte,24m,FACS 24m,1078_FACS 24m,21
+1079_FACS 24m,large_intestine,large intestine goblet cell,24m,FACS 24m,1079_FACS 24m,27
+1080_FACS 24m,marrow,naive B cell,24m,FACS 24m,1080_FACS 24m,8
+1081_FACS 24m,trachea,basal epithelial cell of tracheobronchial tree,24m,FACS 24m,1081_FACS 24m,4
+1082_FACS 24m,pancreas,pancreatic B cell,24m,FACS 24m,1082_FACS 24m,28
+1083_FACS 24m,large_intestine,enterocyte of epithelium of large intestine,24m,FACS 24m,1083_FACS 24m,27
+1084_FACS 24m,heart,monocyte,24m,FACS 24m,1084_FACS 24m,20
+1085_FACS 24m,heart,monocyte,24m,FACS 24m,1085_FACS 24m,13
+1086_FACS 24m,skin,basal cell of epidermis,24m,FACS 24m,1086_FACS 24m,23
+1087_FACS 24m,brain_non-myeloid,neuron,24m,FACS 24m,1087_FACS 24m,2
+1088_FACS 24m,large_intestine,epithelial cell of large intestine,24m,FACS 24m,1088_FACS 24m,7
+1089_FACS 24m,liver,hepatocyte,24m,FACS 24m,1089_FACS 24m,3
+1090_FACS 24m,limb_muscle,endothelial cell,24m,FACS 24m,1090_FACS 24m,0
+1091_FACS 24m,marrow,granulocyte,24m,FACS 24m,1091_FACS 24m,21
+1092_FACS 24m,kidney,epithelial cell of proximal tubule,24m,FACS 24m,1092_FACS 24m,26
+1093_FACS 24m,marrow,macrophage,24m,FACS 24m,1093_FACS 24m,18
+1094_FACS 24m,thymus,thymocyte,24m,FACS 24m,1094_FACS 24m,31
+1095_FACS 24m,heart,monocyte,24m,FACS 24m,1095_FACS 24m,13
+1096_FACS 24m,marrow,hematopoietic stem cell,24m,FACS 24m,1096_FACS 24m,9
+1097_FACS 24m,scat,mesenchymal stem cell of adipose,24m,FACS 24m,1097_FACS 24m,5
+1098_FACS 24m,pancreas,pancreatic A cell,24m,FACS 24m,1098_FACS 24m,28
+1099_FACS 24m,lung,fibroblast of lung,24m,FACS 24m,1099_FACS 24m,5
+1100_FACS 24m,pancreas,pancreatic acinar cell,24m,FACS 24m,1100_FACS 24m,3
+1101_FACS 24m,heart,valve cell,24m,FACS 24m,1101_FACS 24m,24
+1102_FACS 24m,heart,ventricular myocyte,24m,FACS 24m,1102_FACS 24m,3
+1103_FACS 24m,large_intestine,large intestine goblet cell,24m,FACS 24m,1103_FACS 24m,27
+1104_FACS 24m,heart,endocardial cell,24m,FACS 24m,1104_FACS 24m,0
+1105_FACS 24m,kidney,fenestrated cell,24m,FACS 24m,1105_FACS 24m,0
+1106_FACS 24m,lung,bronchial smooth muscle cell,24m,FACS 24m,1106_FACS 24m,12
+1107_FACS 24m,marrow,NK cell,24m,FACS 24m,1107_FACS 24m,30
+1108_FACS 24m,bat,myeloid cell,24m,FACS 24m,1108_FACS 24m,3
+1109_FACS 24m,brain_non-myeloid,endothelial cell,24m,FACS 24m,1109_FACS 24m,0
+1110_FACS 24m,skin,epidermal cell,24m,FACS 24m,1110_FACS 24m,23
+1111_FACS 24m,brain_non-myeloid,oligodendrocyte,24m,FACS 24m,1111_FACS 24m,2
+1112_FACS 24m,marrow,megakaryocyte-erythroid progenitor cell,24m,FACS 24m,1112_FACS 24m,14
+1113_FACS 24m,thymus,thymocyte,24m,FACS 24m,1113_FACS 24m,31
+1114_FACS 24m,kidney,kidney collecting duct principal cell,24m,FACS 24m,1114_FACS 24m,15
+1115_FACS 24m,scat,mesenchymal stem cell of adipose,24m,FACS 24m,1115_FACS 24m,4
+1116_FACS 24m,liver,hepatocyte,24m,FACS 24m,1116_FACS 24m,26
+1117_FACS 24m,tongue,keratinocyte,24m,FACS 24m,1117_FACS 24m,23
+1118_FACS 24m,lung,bronchial smooth muscle cell,24m,FACS 24m,1118_FACS 24m,0
+1119_FACS 24m,liver,endothelial cell of hepatic sinusoid,24m,FACS 24m,1119_FACS 24m,0
+1120_FACS 24m,pancreas,pancreatic ductal cell,24m,FACS 24m,1120_FACS 24m,15
+1121_FACS 24m,marrow,hematopoietic stem cell,24m,FACS 24m,1121_FACS 24m,9
+1122_FACS 24m,marrow,mature alpha-beta T cell,24m,FACS 24m,1122_FACS 24m,8
+1123_FACS 24m,lung,type II pneumocyte,24m,FACS 24m,1123_FACS 24m,15
+1124_FACS 24m,thymus,epithelial cell of thymus,24m,FACS 24m,1124_FACS 24m,4
+1125_FACS 3m,spleen,B cell,3m,FACS 3m,1125_FACS 3m,8
+1126_FACS 3m,fat,mesenchymal stem cell of adipose,3m,FACS 3m,1126_FACS 3m,5
+1127_FACS 3m,brain_myeloid,microglial cell,3m,FACS 3m,1127_FACS 3m,13
+1128_FACS 3m,heart,endothelial cell,3m,FACS 3m,1128_FACS 3m,0
+1129_FACS 3m,brain_non-myeloid,oligodendrocyte,3m,FACS 3m,1129_FACS 3m,2
+1130_FACS 3m,mammary_gland,basal cell,3m,FACS 3m,1130_FACS 3m,7
+1131_FACS 3m,heart,fibroblast,3m,FACS 3m,1131_FACS 3m,5
+1132_FACS 3m,thymus,immature T cell,3m,FACS 3m,1132_FACS 3m,1
+1133_FACS 3m,brain_myeloid,microglial cell,3m,FACS 3m,1133_FACS 3m,13
+1134_FACS 3m,limb_muscle,skeletal muscle satellite cell,3m,FACS 3m,1134_FACS 3m,3
+1135_FACS 3m,brain_myeloid,microglial cell,3m,FACS 3m,1135_FACS 3m,13
+1136_FACS 3m,limb_muscle,mesenchymal stem cell,3m,FACS 3m,1136_FACS 3m,5
+1137_FACS 3m,heart,fibroblast,3m,FACS 3m,1137_FACS 3m,5
+1138_FACS 3m,marrow,Slamf1-negative multipotent progenitor cell,3m,FACS 3m,1138_FACS 3m,9
+1139_FACS 3m,large_intestine,epithelial cell of large intestine,3m,FACS 3m,1139_FACS 3m,27
+1140_FACS 3m,skin,keratinocyte stem cell,3m,FACS 3m,1140_FACS 3m,7
+1141_FACS 3m,marrow,precursor B cell,3m,FACS 3m,1141_FACS 3m,8
+1142_FACS 3m,fat,mesenchymal stem cell of adipose,3m,FACS 3m,1142_FACS 3m,5
+1143_FACS 3m,large_intestine,enterocyte of epithelium of large intestine,3m,FACS 3m,1143_FACS 3m,27
+1144_FACS 3m,tongue,basal cell of epidermis,3m,FACS 3m,1144_FACS 3m,23
+1145_FACS 3m,large_intestine,large intestine goblet cell,3m,FACS 3m,1145_FACS 3m,27
+1146_FACS 3m,marrow,granulocyte,3m,FACS 3m,1146_FACS 3m,21
+1147_FACS 3m,brain_non-myeloid,endothelial cell,3m,FACS 3m,1147_FACS 3m,0
+1148_FACS 3m,bladder,bladder cell,3m,FACS 3m,1148_FACS 3m,5
+1149_FACS 3m,brain_myeloid,microglial cell,3m,FACS 3m,1149_FACS 3m,13
+1150_FACS 3m,bladder,bladder urothelial cell,3m,FACS 3m,1150_FACS 3m,7
+1151_FACS 3m,large_intestine,epithelial cell of large intestine,3m,FACS 3m,1151_FACS 3m,27
+1152_FACS 3m,skin,basal cell of epidermis,3m,FACS 3m,1152_FACS 3m,23
+1153_FACS 3m,fat,endothelial cell,3m,FACS 3m,1153_FACS 3m,0
+1154_FACS 3m,thymus,immature T cell,3m,FACS 3m,1154_FACS 3m,31
+1155_FACS 3m,marrow,monocyte,3m,FACS 3m,1155_FACS 3m,22
+1156_FACS 3m,skin,keratinocyte stem cell,3m,FACS 3m,1156_FACS 3m,7
+1157_FACS 3m,heart,leukocyte,3m,FACS 3m,1157_FACS 3m,13
+1158_FACS 3m,trachea,mesenchymal cell,3m,FACS 3m,1158_FACS 3m,5
+1159_FACS 3m,lung,lung endothelial cell,3m,FACS 3m,1159_FACS 3m,0
+1160_FACS 3m,fat,myeloid cell,3m,FACS 3m,1160_FACS 3m,18
+1161_FACS 3m,pancreas,pancreatic A cell,3m,FACS 3m,1161_FACS 3m,28
+1162_FACS 3m,marrow,granulocyte,3m,FACS 3m,1162_FACS 3m,21
+1163_FACS 3m,pancreas,type B pancreatic cell,3m,FACS 3m,1163_FACS 3m,28
+1164_FACS 3m,brain_non-myeloid,astrocyte,3m,FACS 3m,1164_FACS 3m,2
+1165_FACS 3m,marrow,Slamf1-negative multipotent progenitor cell,3m,FACS 3m,1165_FACS 3m,9
+1166_FACS 3m,mammary_gland,luminal epithelial cell of mammary gland,3m,FACS 3m,1166_FACS 3m,7
+1167_FACS 3m,heart,leukocyte,3m,FACS 3m,1167_FACS 3m,13
+1168_FACS 3m,fat,T cell,3m,FACS 3m,1168_FACS 3m,1
+1169_FACS 3m,large_intestine,epithelial cell of large intestine,3m,FACS 3m,1169_FACS 3m,27
+1170_FACS 3m,fat,myeloid cell,3m,FACS 3m,1170_FACS 3m,22
+1171_FACS 3m,large_intestine,epithelial cell of large intestine,3m,FACS 3m,1171_FACS 3m,7
+1172_FACS 3m,fat,natural killer cell,3m,FACS 3m,1172_FACS 3m,30
+1173_FACS 3m,tongue,keratinocyte,3m,FACS 3m,1173_FACS 3m,23
+1174_FACS 3m,marrow,late pro-B cell,3m,FACS 3m,1174_FACS 3m,9
+1175_FACS 3m,brain_non-myeloid,brain pericyte,3m,FACS 3m,1175_FACS 3m,24
+1176_FACS 3m,kidney,kidney collecting duct epithelial cell,3m,FACS 3m,1176_FACS 3m,7
+1177_FACS 3m,mammary_gland,luminal epithelial cell of mammary gland,3m,FACS 3m,1177_FACS 3m,7
+1178_FACS 3m,large_intestine,large intestine goblet cell,3m,FACS 3m,1178_FACS 3m,27
+1179_FACS 3m,lung,stromal cell,3m,FACS 3m,1179_FACS 3m,5
+1180_FACS 3m,tongue,basal cell of epidermis,3m,FACS 3m,1180_FACS 3m,23
+1181_FACS 3m,skin,epidermal cell,3m,FACS 3m,1181_FACS 3m,23
+1182_FACS 3m,brain_non-myeloid,neuron,3m,FACS 3m,1182_FACS 3m,28
+1183_FACS 3m,brain_non-myeloid,oligodendrocyte precursor cell,3m,FACS 3m,1183_FACS 3m,2
+1184_FACS 3m,heart,myofibroblast cell,3m,FACS 3m,1184_FACS 3m,24
+1185_FACS 3m,kidney,endothelial cell,3m,FACS 3m,1185_FACS 3m,0
+1186_FACS 3m,marrow,immature B cell,3m,FACS 3m,1186_FACS 3m,8
+1187_FACS 3m,liver,hepatocyte,3m,FACS 3m,1187_FACS 3m,26
+1188_FACS 3m,marrow,macrophage,3m,FACS 3m,1188_FACS 3m,18
+1189_FACS 3m,pancreas,pancreatic ductal cell,3m,FACS 3m,1189_FACS 3m,15
+1190_FACS 3m,liver,endothelial cell of hepatic sinusoid,3m,FACS 3m,1190_FACS 3m,0
+1191_FACS 3m,kidney,epithelial cell of proximal tubule,3m,FACS 3m,1191_FACS 3m,26
+1192_FACS 3m,large_intestine,enterocyte of epithelium of large intestine,3m,FACS 3m,1192_FACS 3m,27
+1193_FACS 3m,heart,endocardial cell,3m,FACS 3m,1193_FACS 3m,0
+1194_FACS 3m,pancreas,pancreatic acinar cell,3m,FACS 3m,1194_FACS 3m,3
+1195_FACS 3m,lung,lung endothelial cell,3m,FACS 3m,1195_FACS 3m,0
+1196_FACS 3m,thymus,immature T cell,3m,FACS 3m,1196_FACS 3m,31
+1197_FACS 3m,lung,lung endothelial cell,3m,FACS 3m,1197_FACS 3m,0
+1198_FACS 3m,fat,NA,3m,FACS 3m,1198_FACS 3m,1
+1199_FACS 3m,pancreas,pancreatic D cell,3m,FACS 3m,1199_FACS 3m,28
+1200_FACS 3m,tongue,keratinocyte,3m,FACS 3m,1200_FACS 3m,23
+1201_FACS 3m,heart,cardiac muscle cell,3m,FACS 3m,1201_FACS 3m,3
+1202_FACS 3m,marrow,Slamf1-negative multipotent progenitor cell,3m,FACS 3m,1202_FACS 3m,9
+1203_FACS 3m,liver,hepatocyte,3m,FACS 3m,1203_FACS 3m,26
+1204_FACS 3m,brain_non-myeloid,neuron,3m,FACS 3m,1204_FACS 3m,2
+1205_FACS 3m,lung,epithelial cell of lung,3m,FACS 3m,1205_FACS 3m,15
+1206_FACS 3m,heart,fibroblast,3m,FACS 3m,1206_FACS 3m,5
